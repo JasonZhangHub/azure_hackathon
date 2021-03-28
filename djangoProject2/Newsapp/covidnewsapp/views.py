@@ -2,9 +2,10 @@ from django.shortcuts import render
 from newsapi import NewsApiClient
 
 # Create your views here.
+###Remove API key for security reason can apply for a personal one on newsapi
 
 def index(request):
-    newsApi = NewsApiClient(api_key='3002a7015bd143c48157daa21b02e0ce')
+    newsApi = NewsApiClient(api_key='')
     headLines = newsApi.get_top_headlines(q='COVID',sources='cnn,bbc-news')
     articles = headLines['articles']
     desc = []
