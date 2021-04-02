@@ -38,9 +38,9 @@ md = markdown.Markdown()
 
 st.markdown(
     '''
-        <link rel="stylesheet"
-              href="https://fonts.googleapis.com/css?family=Tangerine">
-        <div style="font-family: 'Tangerine';font-size:48px"><center>The Corona Times</center></div>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap" rel="stylesheet">
+        <div style="font-family: 'PT Sans';font-size:48px"><center>Latest COVID-19 News Update</center></div>
     ''', unsafe_allow_html=True
 )
 
@@ -72,9 +72,9 @@ def get_data(date):
 curdate = date.today()
 casedata = get_data(curdate)
 
-st.markdown(f"<center> <h1> Current World Snapshot </h1></center>", unsafe_allow_html=True)
+st.markdown(f"<center> <h1> Global COVID-19 Update </h1></center>", unsafe_allow_html=True)
 
-type_data = st.selectbox("What do you want to see?(You can click on the legend labels to select countries to compare)",
+type_data = st.selectbox("Number of COVID-19 cases or deaths by country (You can click on the legend labels to select countries to compare)",
                          ['Cases', 'Deaths'], index=0)
 if type_data == 'Deaths':
     st.plotly_chart(
@@ -87,14 +87,14 @@ elif type_data == 'Cases':
 
 st.sidebar.markdown(f'''<div class="card text-white bg-info mb-3" style="width: 18rem">
   <div class="card-body">
-    <h5 class="card-title">Total Cases</h5>
+    <h5 class="card-title">Total COVID-19 Cases</h5>
     <p class="card-text">{sum(casedata['cases']):,d}</p>
   </div>
 </div>''', unsafe_allow_html=True)
 
 st.sidebar.markdown(f'''<div class="card text-white bg-danger mb-3" style="width: 18rem">
   <div class="card-body">
-    <h5 class="card-title">Total Deaths</h5>
+    <h5 class="card-title">Total Deaths caused by COVID-19</h5>
     <p class="card-text">{sum(casedata['deaths']):,d}</p>
   </div>
 </div>''', unsafe_allow_html=True)
@@ -194,7 +194,7 @@ country_code = country_name_code_dict[country_name]
 # st.write(country_code)
 data = create_dataframe_top(['covid', 'corona'], country=country_code)
 top_results_markdown = create_most_recent_markdown(data)
-st.markdown(f"<center> <h1> Most Recent News from {country_name}</h1></center>", unsafe_allow_html=True)
+st.markdown(f"<center> <h1> Most Recent COVID-19 News Headlines from {country_name}</h1></center>", unsafe_allow_html=True)
 st.markdown("<center>" + md.convert(top_results_markdown) + "</center>", unsafe_allow_html=True)
 
 
@@ -235,39 +235,4 @@ def create_dataframe_last_30d(queries, sources):
     return fulldata
 
 
-sources = get_sources(country=country_code)
-fulldf_copy = create_dataframe_last_30d(['corona'], sources)
-fulldf = copy.deepcopy(fulldf_copy)
-if len(fulldf) > 0:
-    fulldf['story_sentiment'] = fulldf.apply(lambda x: textblob_sentiment(x['title'], x['description']), axis=1)
-    sent_df = fulldf.groupby('source').aggregate(
-        {'story_sentiment': np.mean, 'index': 'count'}).reset_index().sort_values('story_sentiment')
-    relevant_sent_df = sent_df[sent_df['index'] > 10]
-    st.markdown(f"<center> <h1> News Outlet Sentiments in {country_name}</h1></center>", unsafe_allow_html=True)
-    # st.bar_chart(relevant_sent_df[['source','story_sentiment']])
-    st.plotly_chart(px.bar(data_frame=relevant_sent_df, x='source', y='story_sentiment'), use_container_width=True)
-
-# Positive sentiment Stories
-if len(fulldf) > 0:
-    positivedata = fulldf[fulldf['source'].isin(relevant_sent_df.source.values)].sort_values('story_sentiment',
-                                                                                             ascending=False)
-    negativedata = fulldf[fulldf['source'].isin(relevant_sent_df.source.values)].sort_values('story_sentiment',
-                                                                                             ascending=True)
-
-    positive_results_markdown = create_most_recent_markdown(positivedata, 400)
-
-    negative_results_markdown = create_most_recent_markdown(negativedata, 400)
-
-    html = f'''<table style="width:100%">
-                  <tr>
-                    <th><center>Most Positive News</center></th>
-                    <th><center>Most Negative News</center></th>
-                  </tr>
-                  <tr>
-                    <td><center>{md.convert(positive_results_markdown)}</center></td>
-                    <td><center>{md.convert(negative_results_markdown)}</center></td>
-                  </tr>
-                </table>'''
-    # print md.convert("# sample heading text")
-    st.markdown(html, unsafe_allow_html=True)
 
