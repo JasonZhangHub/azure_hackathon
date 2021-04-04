@@ -23,6 +23,8 @@ def forecast(region):
     
     t['mean'].plot(ax=ax, style='k--')
     ax.fill_between(t.index, t['mean_ci_lower'], t['mean_ci_upper'], color='k', alpha=0.1)
+    ax.set_xlabel('Date')
+    ax.set_ylabel('NO. of Cases')
     fig
     
     return fig
