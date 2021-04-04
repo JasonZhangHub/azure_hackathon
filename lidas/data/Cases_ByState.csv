@@ -1,0 +1,4449 @@
+region,date,cases
+Johor,25-Jan-20,1
+Johor,28-Jan-20,2
+Johor,30-Jan-20,3
+Johor,3-Feb-20,3
+Johor,5-Feb-20,3
+Johor,6-Feb-20,4
+Johor,7-Feb-20,4
+Johor,8-Feb-20,4
+Johor,9-Feb-20,4
+Johor,13-Feb-20,4
+Johor,14-Feb-20,4
+Johor,15-Feb-20,4
+Johor,27-Feb-20,4
+Johor,28-Feb-20,4
+Johor,1-Mar-20,4
+Johor,3-Mar-20,4
+Johor,13-Mar-20,20
+Johor,14-Mar-20,22
+Johor,16-Mar-20,52
+Johor,17-Mar-20,77
+Johor,18-Mar-20,88
+Johor,19-Mar-20,101
+Johor,20-Mar-20,114
+Johor,21-Mar-20,129
+Johor,22-Mar-20,145
+Johor,23-Mar-20,158
+Johor,24-Mar-20,162
+Johor,25-Mar-20,196
+Johor,26-Mar-20,239
+Johor,27-Mar-20,259
+Johor,28-Mar-20,285
+Johor,29-Mar-20,309
+Johor,30-Mar-20,333
+Johor,31-Mar-20,349
+Johor,1-Apr-20,368
+Johor,2-Apr-20,395
+Johor,3-Apr-20,416
+Johor,4-Apr-20,422
+Johor,5-Apr-20,438
+Johor,6-Apr-20,468
+Johor,7-Apr-20,478
+Johor,8-Apr-20,496
+Johor,9-Apr-20,503
+Johor,10-Apr-20,523
+Johor,11-Apr-20,544
+Johor,12-Apr-20,558
+Johor,13-Apr-20,579
+Johor,14-Apr-20,587
+Johor,15-Apr-20,601
+Johor,16-Apr-20,614
+Johor,17-Apr-20,623
+Johor,18-Apr-20,639
+Johor,19-Apr-20,642
+Johor,20-Apr-20,644
+Johor,21-Apr-20,645
+Johor,22-Apr-20,648
+Johor,23-Apr-20,651
+Johor,24-Apr-20,655
+Johor,25-Apr-20,655
+Johor,26-Apr-20,659
+Johor,27-Apr-20,659
+Johor,28-Apr-20,660
+Johor,29-Apr-20,660
+Johor,30-Apr-20,663
+Johor,1-May-20,666
+Johor,2-May-20,667
+Johor,3-May-20,667
+Johor,4-May-20,667
+Johor,5-May-20,667
+Johor,6-May-20,667
+Johor,7-May-20,667
+Johor,8-May-20,667
+Johor,9-May-20,667
+Johor,10-May-20,667
+Johor,11-May-20,667
+Johor,12-May-20,667
+Johor,13-May-20,667
+Johor,14-May-20,668
+Johor,15-May-20,668
+Johor,16-May-20,668
+Johor,17-May-20,668
+Johor,18-May-20,668
+Johor,19-May-20,669
+Johor,20-May-20,669
+Johor,21-May-20,669
+Johor,22-May-20,669
+Johor,23-May-20,670
+Johor,24-May-20,671
+Johor,25-May-20,671
+Johor,26-May-20,671
+Johor,27-May-20,671
+Johor,28-May-20,671
+Johor,29-May-20,674
+Johor,30-May-20,675
+Johor,31-May-20,675
+Johor,1-Jun-20,675
+Johor,2-Jun-20,676
+Johor,3-Jun-20,676
+Johor,4-Jun-20,676
+Johor,5-Jun-20,676
+Johor,6-Jun-20,676
+Johor,7-Jun-20,676
+Johor,8-Jun-20,676
+Johor,9-Jun-20,676
+Johor,10-Jun-20,677
+Johor,11-Jun-20,677
+Johor,12-Jun-20,678
+Johor,13-Jun-20,680
+Johor,14-Jun-20,680
+Johor,15-Jun-20,683
+Johor,16-Jun-20,684
+Johor,17-Jun-20,684
+Johor,18-Jun-20,686
+Johor,19-Jun-20,686
+Johor,20-Jun-20,686
+Johor,21-Jun-20,687
+Johor,22-Jun-20,688
+Johor,23-Jun-20,688
+Johor,24-Jun-20,688
+Johor,25-Jun-20,689
+Johor,26-Jun-20,691
+Johor,27-Jun-20,691
+Johor,28-Jun-20,691
+Johor,29-Jun-20,691
+Johor,30-Jun-20,691
+Johor,1-Jul-20,691
+Johor,2-Jul-20,692
+Johor,3-Jul-20,692
+Johor,4-Jul-20,692
+Johor,5-Jul-20,692
+Johor,6-Jul-20,693
+Johor,7-Jul-20,694
+Johor,8-Jul-20,694
+Johor,9-Jul-20,696
+Johor,10-Jul-20,697
+Johor,11-Jul-20,699
+Johor,12-Jul-20,699
+Johor,13-Jul-20,699
+Johor,14-Jul-20,701
+Johor,15-Jul-20,701
+Johor,16-Jul-20,701
+Johor,17-Jul-20,701
+Johor,18-Jul-20,701
+Johor,19-Jul-20,702
+Johor,20-Jul-20,716
+Johor,21-Jul-20,716
+Johor,22-Jul-20,717
+Johor,23-Jul-20,718
+Johor,24-Jul-20,720
+Johor,25-Jul-20,730
+Johor,26-Jul-20,737
+Johor,27-Jul-20,737
+Johor,28-Jul-20,737
+Johor,29-Jul-20,738
+Johor,30-Jul-20,739
+Johor,31-Jul-20,742
+Johor,1-Aug-20,742
+Johor,2-Aug-20,742
+Johor,3-Aug-20,742
+Johor,4-Aug-20,742
+Johor,5-Aug-20,743
+Johor,6-Aug-20,743
+Johor,7-Aug-20,744
+Johor,8-Aug-20,744
+Johor,9-Aug-20,744
+Johor,10-Aug-20,746
+Johor,11-Aug-20,747
+Johor,12-Aug-20,749
+Johor,13-Aug-20,749
+Johor,14-Aug-20,749
+Johor,15-Aug-20,750
+Johor,16-Aug-20,750
+Johor,17-Aug-20,750
+Johor,18-Aug-20,750
+Johor,19-Aug-20,751
+Johor,20-Aug-20,751
+Johor,21-Aug-20,751
+Johor,22-Aug-20,751
+Johor,23-Aug-20,751
+Johor,24-Aug-20,751
+Johor,25-Aug-20,751
+Johor,26-Aug-20,751
+Johor,27-Aug-20,751
+Johor,28-Aug-20,751
+Johor,29-Aug-20,751
+Johor,30-Aug-20,751
+Johor,31-Aug-20,751
+Johor,1-Sep-20,751
+Johor,2-Sep-20,751
+Johor,3-Sep-20,752
+Johor,4-Sep-20,752
+Johor,5-Sep-20,752
+Johor,6-Sep-20,752
+Johor,7-Sep-20,752
+Johor,8-Sep-20,752
+Johor,9-Sep-20,752
+Johor,10-Sep-20,752
+Johor,11-Sep-20,752
+Johor,12-Sep-20,752
+Johor,13-Sep-20,752
+Johor,14-Sep-20,752
+Johor,15-Sep-20,752
+Johor,16-Sep-20,752
+Johor,17-Sep-20,752
+Johor,18-Sep-20,752
+Johor,19-Sep-20,752
+Johor,20-Sep-20,752
+Johor,21-Sep-20,752
+Johor,22-Sep-20,752
+Johor,23-Sep-20,752
+Johor,24-Sep-20,753
+Johor,25-Sep-20,754
+Johor,26-Sep-20,755
+Johor,27-Sep-20,757
+Johor,28-Sep-20,757
+Johor,29-Sep-20,759
+Johor,30-Sep-20,767
+Johor,1-Oct-20,772
+Johor,2-Oct-20,773
+Johor,3-Oct-20,777
+Johor,4-Oct-20,785
+Johor,5-Oct-20,787
+Johor,6-Oct-20,793
+Johor,7-Oct-20,799
+Johor,8-Oct-20,804
+Johor,9-Oct-20,809
+Johor,10-Oct-20,811
+Johor,11-Oct-20,814
+Johor,12-Oct-20,816
+Johor,13-Oct-20,826
+Johor,14-Oct-20,829
+Johor,15-Oct-20,829
+Johor,16-Oct-20,834
+Johor,17-Oct-20,836
+Johor,18-Oct-20,837
+Johor,19-Oct-20,839
+Johor,20-Oct-20,840
+Johor,21-Oct-20,840
+Johor,22-Oct-20,841
+Johor,23-Oct-20,845
+Johor,24-Oct-20,852
+Johor,25-Oct-20,867
+Johor,26-Oct-20,871
+Johor,27-Oct-20,879
+Johor,28-Oct-20,887
+Johor,29-Oct-20,897
+Johor,30-Oct-20,906
+Johor,31-Oct-20,906
+Johor,1-Nov-20,907
+Johor,2-Nov-20,916
+Johor,3-Nov-20,917
+Johor,4-Nov-20,919
+Johor,5-Nov-20,921
+Johor,6-Nov-20,925
+Johor,7-Nov-20,930
+Johor,8-Nov-20,931
+Johor,9-Nov-20,941
+Johor,10-Nov-20,949
+Johor,11-Nov-20,959
+Johor,12-Nov-20,967
+Johor,13-Nov-20,970
+Johor,14-Nov-20,985
+Johor,15-Nov-20,994
+Johor,16-Nov-20,1002
+Johor,17-Nov-20,1016
+Johor,18-Nov-20,1019
+Johor,19-Nov-20,1034
+Johor,20-Nov-20,1043
+Johor,21-Nov-20,1076
+Johor,22-Nov-20,1085
+Johor,23-Nov-20,1100
+Johor,24-Nov-20,1119
+Johor,25-Nov-20,1149
+Johor,26-Nov-20,1209
+Johor,27-Nov-20,1242
+Johor,28-Nov-20,1288
+Johor,29-Nov-20,1325
+Johor,30-Nov-20,1379
+Kedah,25-Jan-20,0
+Kedah,28-Jan-20,1
+Kedah,30-Jan-20,1
+Kedah,3-Feb-20,1
+Kedah,5-Feb-20,2
+Kedah,6-Feb-20,2
+Kedah,7-Feb-20,2
+Kedah,8-Feb-20,2
+Kedah,9-Feb-20,2
+Kedah,13-Feb-20,2
+Kedah,14-Feb-20,4
+Kedah,15-Feb-20,4
+Kedah,27-Feb-20,4
+Kedah,28-Feb-20,4
+Kedah,1-Mar-20,4
+Kedah,3-Mar-20,4
+Kedah,13-Mar-20,5
+Kedah,14-Mar-20,5
+Kedah,16-Mar-20,319
+Kedah,17-Mar-20,31
+Kedah,18-Mar-20,36
+Kedah,19-Mar-20,40
+Kedah,20-Mar-20,41
+Kedah,21-Mar-20,47
+Kedah,22-Mar-20,52
+Kedah,23-Mar-20,59
+Kedah,24-Mar-20,64
+Kedah,25-Mar-20,69
+Kedah,26-Mar-20,72
+Kedah,27-Mar-20,73
+Kedah,28-Mar-20,74
+Kedah,29-Mar-20,75
+Kedah,30-Mar-20,77
+Kedah,31-Mar-20,77
+Kedah,1-Apr-20,79
+Kedah,2-Apr-20,80
+Kedah,3-Apr-20,81
+Kedah,4-Apr-20,81
+Kedah,5-Apr-20,82
+Kedah,6-Apr-20,85
+Kedah,7-Apr-20,90
+Kedah,8-Apr-20,91
+Kedah,9-Apr-20,93
+Kedah,10-Apr-20,93
+Kedah,11-Apr-20,93
+Kedah,12-Apr-20,93
+Kedah,13-Apr-20,93
+Kedah,14-Apr-20,93
+Kedah,15-Apr-20,94
+Kedah,16-Apr-20,94
+Kedah,17-Apr-20,94
+Kedah,18-Apr-20,94
+Kedah,19-Apr-20,94
+Kedah,20-Apr-20,94
+Kedah,21-Apr-20,94
+Kedah,22-Apr-20,95
+Kedah,23-Apr-20,95
+Kedah,24-Apr-20,95
+Kedah,25-Apr-20,95
+Kedah,26-Apr-20,95
+Kedah,27-Apr-20,95
+Kedah,28-Apr-20,95
+Kedah,29-Apr-20,95
+Kedah,30-Apr-20,95
+Kedah,1-May-20,95
+Kedah,2-May-20,95
+Kedah,3-May-20,95
+Kedah,4-May-20,95
+Kedah,5-May-20,95
+Kedah,6-May-20,95
+Kedah,7-May-20,95
+Kedah,8-May-20,95
+Kedah,9-May-20,95
+Kedah,10-May-20,95
+Kedah,11-May-20,95
+Kedah,12-May-20,95
+Kedah,13-May-20,95
+Kedah,14-May-20,95
+Kedah,15-May-20,95
+Kedah,16-May-20,95
+Kedah,17-May-20,95
+Kedah,18-May-20,95
+Kedah,19-May-20,95
+Kedah,20-May-20,96
+Kedah,21-May-20,96
+Kedah,22-May-20,96
+Kedah,23-May-20,96
+Kedah,24-May-20,96
+Kedah,25-May-20,96
+Kedah,26-May-20,96
+Kedah,27-May-20,96
+Kedah,28-May-20,96
+Kedah,29-May-20,96
+Kedah,30-May-20,96
+Kedah,31-May-20,96
+Kedah,1-Jun-20,96
+Kedah,2-Jun-20,96
+Kedah,3-Jun-20,96
+Kedah,4-Jun-20,96
+Kedah,5-Jun-20,96
+Kedah,6-Jun-20,96
+Kedah,7-Jun-20,96
+Kedah,8-Jun-20,96
+Kedah,9-Jun-20,96
+Kedah,10-Jun-20,96
+Kedah,11-Jun-20,96
+Kedah,12-Jun-20,96
+Kedah,13-Jun-20,96
+Kedah,14-Jun-20,96
+Kedah,15-Jun-20,96
+Kedah,16-Jun-20,96
+Kedah,17-Jun-20,96
+Kedah,18-Jun-20,96
+Kedah,19-Jun-20,96
+Kedah,20-Jun-20,96
+Kedah,21-Jun-20,96
+Kedah,22-Jun-20,96
+Kedah,23-Jun-20,96
+Kedah,24-Jun-20,96
+Kedah,25-Jun-20,96
+Kedah,26-Jun-20,97
+Kedah,27-Jun-20,97
+Kedah,28-Jun-20,97
+Kedah,29-Jun-20,97
+Kedah,30-Jun-20,97
+Kedah,1-Jul-20,97
+Kedah,2-Jul-20,97
+Kedah,3-Jul-20,97
+Kedah,4-Jul-20,97
+Kedah,5-Jul-20,97
+Kedah,6-Jul-20,97
+Kedah,7-Jul-20,97
+Kedah,8-Jul-20,97
+Kedah,9-Jul-20,97
+Kedah,10-Jul-20,98
+Kedah,11-Jul-20,98
+Kedah,12-Jul-20,98
+Kedah,13-Jul-20,99
+Kedah,14-Jul-20,99
+Kedah,15-Jul-20,99
+Kedah,16-Jul-20,99
+Kedah,17-Jul-20,99
+Kedah,18-Jul-20,99
+Kedah,19-Jul-20,99
+Kedah,20-Jul-20,100
+Kedah,21-Jul-20,100
+Kedah,22-Jul-20,100
+Kedah,23-Jul-20,100
+Kedah,24-Jul-20,100
+Kedah,25-Jul-20,100
+Kedah,26-Jul-20,100
+Kedah,27-Jul-20,100
+Kedah,28-Jul-20,106
+Kedah,29-Jul-20,106
+Kedah,30-Jul-20,107
+Kedah,31-Jul-20,109
+Kedah,1-Aug-20,110
+Kedah,2-Aug-20,121
+Kedah,3-Aug-20,122
+Kedah,4-Aug-20,122
+Kedah,5-Aug-20,125
+Kedah,6-Aug-20,131
+Kedah,7-Aug-20,132
+Kedah,8-Aug-20,132
+Kedah,9-Aug-20,132
+Kedah,10-Aug-20,132
+Kedah,11-Aug-20,132
+Kedah,12-Aug-20,134
+Kedah,13-Aug-20,143
+Kedah,14-Aug-20,155
+Kedah,15-Aug-20,169
+Kedah,16-Aug-20,174
+Kedah,17-Aug-20,180
+Kedah,18-Aug-20,183
+Kedah,19-Aug-20,190
+Kedah,20-Aug-20,190
+Kedah,21-Aug-20,193
+Kedah,22-Aug-20,198
+Kedah,23-Aug-20,200
+Kedah,24-Aug-20,200
+Kedah,25-Aug-20,207
+Kedah,26-Aug-20,212
+Kedah,27-Aug-20,212
+Kedah,28-Aug-20,213
+Kedah,29-Aug-20,213
+Kedah,30-Aug-20,214
+Kedah,31-Aug-20,216
+Kedah,1-Sep-20,218
+Kedah,2-Sep-20,218
+Kedah,3-Sep-20,222
+Kedah,4-Sep-20,223
+Kedah,5-Sep-20,224
+Kedah,6-Sep-20,224
+Kedah,7-Sep-20,228
+Kedah,8-Sep-20,250
+Kedah,9-Sep-20,266
+Kedah,10-Sep-20,270
+Kedah,11-Sep-20,284
+Kedah,12-Sep-20,289
+Kedah,13-Sep-20,303
+Kedah,14-Sep-20,304
+Kedah,15-Sep-20,304
+Kedah,16-Sep-20,305
+Kedah,17-Sep-20,312
+Kedah,18-Sep-20,312
+Kedah,19-Sep-20,321
+Kedah,20-Sep-20,324
+Kedah,21-Sep-20,325
+Kedah,22-Sep-20,335
+Kedah,23-Sep-20,340
+Kedah,24-Sep-20,344
+Kedah,25-Sep-20,352
+Kedah,26-Sep-20,352
+Kedah,27-Sep-20,352
+Kedah,28-Sep-20,353
+Kedah,29-Sep-20,354
+Kedah,30-Sep-20,367
+Kedah,1-Oct-20,465
+Kedah,2-Oct-20,594
+Kedah,3-Oct-20,696
+Kedah,4-Oct-20,809
+Kedah,5-Oct-20,1050
+Kedah,6-Oct-20,1447
+Kedah,7-Oct-20,1600
+Kedah,8-Oct-20,1616
+Kedah,9-Oct-20,1626
+Kedah,10-Oct-20,1653
+Kedah,11-Oct-20,1669
+Kedah,12-Oct-20,1679
+Kedah,13-Oct-20,1739
+Kedah,14-Oct-20,1852
+Kedah,15-Oct-20,1883
+Kedah,16-Oct-20,1890
+Kedah,17-Oct-20,1928
+Kedah,18-Oct-20,1937
+Kedah,19-Oct-20,1940
+Kedah,20-Oct-20,1957
+Kedah,21-Oct-20,1964
+Kedah,22-Oct-20,1967
+Kedah,23-Oct-20,1968
+Kedah,24-Oct-20,2044
+Kedah,25-Oct-20,2045
+Kedah,26-Oct-20,2048
+Kedah,27-Oct-20,2052
+Kedah,28-Oct-20,2080
+Kedah,29-Oct-20,2117
+Kedah,30-Oct-20,2122
+Kedah,31-Oct-20,2124
+Kedah,1-Nov-20,2125
+Kedah,2-Nov-20,2128
+Kedah,3-Nov-20,2140
+Kedah,4-Nov-20,2165
+Kedah,5-Nov-20,2172
+Kedah,6-Nov-20,2191
+Kedah,7-Nov-20,2206
+Kedah,8-Nov-20,2209
+Kedah,9-Nov-20,2217
+Kedah,10-Nov-20,2220
+Kedah,11-Nov-20,2237
+Kedah,12-Nov-20,2240
+Kedah,13-Nov-20,2245
+Kedah,14-Nov-20,2255
+Kedah,15-Nov-20,2263
+Kedah,16-Nov-20,2273
+Kedah,17-Nov-20,2281
+Kedah,18-Nov-20,2292
+Kedah,19-Nov-20,2299
+Kedah,20-Nov-20,2318
+Kedah,21-Nov-20,2324
+Kedah,22-Nov-20,2340
+Kedah,23-Nov-20,2376
+Kedah,24-Nov-20,2390
+Kedah,25-Nov-20,2414
+Kedah,26-Nov-20,2438
+Kedah,27-Nov-20,2463
+Kedah,28-Nov-20,2480
+Kedah,29-Nov-20,2532
+Kedah,30-Nov-20,2563
+Kelantan,25-Jan-20,0
+Kelantan,28-Jan-20,0
+Kelantan,30-Jan-20,0
+Kelantan,3-Feb-20,0
+Kelantan,5-Feb-20,0
+Kelantan,6-Feb-20,0
+Kelantan,7-Feb-20,0
+Kelantan,8-Feb-20,0
+Kelantan,9-Feb-20,0
+Kelantan,13-Feb-20,0
+Kelantan,14-Feb-20,0
+Kelantan,15-Feb-20,0
+Kelantan,27-Feb-20,0
+Kelantan,28-Feb-20,0
+Kelantan,1-Mar-20,0
+Kelantan,3-Mar-20,0
+Kelantan,13-Mar-20,3
+Kelantan,14-Mar-20,3
+Kelantan,16-Mar-20,18
+Kelantan,17-Mar-20,25
+Kelantan,18-Mar-20,30
+Kelantan,19-Mar-20,44
+Kelantan,20-Mar-20,51
+Kelantan,21-Mar-20,61
+Kelantan,22-Mar-20,63
+Kelantan,23-Mar-20,71
+Kelantan,24-Mar-20,78
+Kelantan,25-Mar-20,84
+Kelantan,26-Mar-20,94
+Kelantan,27-Mar-20,98
+Kelantan,28-Mar-20,108
+Kelantan,29-Mar-20,123
+Kelantan,30-Mar-20,127
+Kelantan,31-Mar-20,131
+Kelantan,1-Apr-20,134
+Kelantan,2-Apr-20,137
+Kelantan,3-Apr-20,137
+Kelantan,4-Apr-20,139
+Kelantan,5-Apr-20,141
+Kelantan,6-Apr-20,142
+Kelantan,7-Apr-20,147
+Kelantan,8-Apr-20,147
+Kelantan,9-Apr-20,148
+Kelantan,10-Apr-20,149
+Kelantan,11-Apr-20,151
+Kelantan,12-Apr-20,152
+Kelantan,13-Apr-20,154
+Kelantan,14-Apr-20,154
+Kelantan,15-Apr-20,154
+Kelantan,16-Apr-20,155
+Kelantan,17-Apr-20,155
+Kelantan,18-Apr-20,155
+Kelantan,19-Apr-20,155
+Kelantan,20-Apr-20,155
+Kelantan,21-Apr-20,155
+Kelantan,22-Apr-20,155
+Kelantan,23-Apr-20,155
+Kelantan,24-Apr-20,155
+Kelantan,25-Apr-20,155
+Kelantan,26-Apr-20,155
+Kelantan,27-Apr-20,155
+Kelantan,28-Apr-20,155
+Kelantan,29-Apr-20,155
+Kelantan,30-Apr-20,155
+Kelantan,1-May-20,155
+Kelantan,2-May-20,155
+Kelantan,3-May-20,155
+Kelantan,4-May-20,155
+Kelantan,5-May-20,155
+Kelantan,6-May-20,155
+Kelantan,7-May-20,155
+Kelantan,8-May-20,155
+Kelantan,9-May-20,155
+Kelantan,10-May-20,155
+Kelantan,11-May-20,155
+Kelantan,12-May-20,155
+Kelantan,13-May-20,155
+Kelantan,14-May-20,155
+Kelantan,15-May-20,155
+Kelantan,16-May-20,155
+Kelantan,17-May-20,155
+Kelantan,18-May-20,155
+Kelantan,19-May-20,155
+Kelantan,20-May-20,156
+Kelantan,21-May-20,156
+Kelantan,22-May-20,156
+Kelantan,23-May-20,156
+Kelantan,24-May-20,156
+Kelantan,25-May-20,156
+Kelantan,26-May-20,156
+Kelantan,27-May-20,156
+Kelantan,28-May-20,156
+Kelantan,29-May-20,156
+Kelantan,30-May-20,156
+Kelantan,31-May-20,156
+Kelantan,1-Jun-20,156
+Kelantan,2-Jun-20,156
+Kelantan,3-Jun-20,156
+Kelantan,4-Jun-20,156
+Kelantan,5-Jun-20,156
+Kelantan,6-Jun-20,156
+Kelantan,7-Jun-20,156
+Kelantan,8-Jun-20,156
+Kelantan,9-Jun-20,156
+Kelantan,10-Jun-20,156
+Kelantan,11-Jun-20,156
+Kelantan,12-Jun-20,156
+Kelantan,13-Jun-20,156
+Kelantan,14-Jun-20,156
+Kelantan,15-Jun-20,156
+Kelantan,16-Jun-20,156
+Kelantan,17-Jun-20,156
+Kelantan,18-Jun-20,156
+Kelantan,19-Jun-20,156
+Kelantan,20-Jun-20,156
+Kelantan,21-Jun-20,156
+Kelantan,22-Jun-20,156
+Kelantan,23-Jun-20,156
+Kelantan,24-Jun-20,156
+Kelantan,25-Jun-20,157
+Kelantan,26-Jun-20,157
+Kelantan,27-Jun-20,157
+Kelantan,28-Jun-20,157
+Kelantan,29-Jun-20,157
+Kelantan,30-Jun-20,157
+Kelantan,1-Jul-20,157
+Kelantan,2-Jul-20,157
+Kelantan,3-Jul-20,157
+Kelantan,4-Jul-20,157
+Kelantan,5-Jul-20,157
+Kelantan,6-Jul-20,157
+Kelantan,7-Jul-20,157
+Kelantan,8-Jul-20,157
+Kelantan,9-Jul-20,157
+Kelantan,10-Jul-20,157
+Kelantan,11-Jul-20,157
+Kelantan,12-Jul-20,157
+Kelantan,13-Jul-20,157
+Kelantan,14-Jul-20,157
+Kelantan,15-Jul-20,157
+Kelantan,16-Jul-20,157
+Kelantan,17-Jul-20,157
+Kelantan,18-Jul-20,158
+Kelantan,19-Jul-20,158
+Kelantan,20-Jul-20,158
+Kelantan,21-Jul-20,158
+Kelantan,22-Jul-20,158
+Kelantan,23-Jul-20,159
+Kelantan,24-Jul-20,159
+Kelantan,25-Jul-20,159
+Kelantan,26-Jul-20,160
+Kelantan,27-Jul-20,160
+Kelantan,28-Jul-20,160
+Kelantan,29-Jul-20,160
+Kelantan,30-Jul-20,160
+Kelantan,31-Jul-20,160
+Kelantan,1-Aug-20,160
+Kelantan,2-Aug-20,160
+Kelantan,3-Aug-20,160
+Kelantan,4-Aug-20,160
+Kelantan,5-Aug-20,160
+Kelantan,6-Aug-20,160
+Kelantan,7-Aug-20,160
+Kelantan,8-Aug-20,160
+Kelantan,9-Aug-20,160
+Kelantan,10-Aug-20,160
+Kelantan,11-Aug-20,160
+Kelantan,12-Aug-20,160
+Kelantan,13-Aug-20,160
+Kelantan,14-Aug-20,160
+Kelantan,15-Aug-20,160
+Kelantan,16-Aug-20,160
+Kelantan,17-Aug-20,160
+Kelantan,18-Aug-20,160
+Kelantan,19-Aug-20,160
+Kelantan,20-Aug-20,160
+Kelantan,21-Aug-20,160
+Kelantan,22-Aug-20,160
+Kelantan,23-Aug-20,160
+Kelantan,24-Aug-20,160
+Kelantan,25-Aug-20,160
+Kelantan,26-Aug-20,160
+Kelantan,27-Aug-20,160
+Kelantan,28-Aug-20,160
+Kelantan,29-Aug-20,160
+Kelantan,30-Aug-20,160
+Kelantan,31-Aug-20,160
+Kelantan,1-Sep-20,160
+Kelantan,2-Sep-20,160
+Kelantan,3-Sep-20,160
+Kelantan,4-Sep-20,160
+Kelantan,5-Sep-20,160
+Kelantan,6-Sep-20,160
+Kelantan,7-Sep-20,160
+Kelantan,8-Sep-20,160
+Kelantan,9-Sep-20,160
+Kelantan,10-Sep-20,160
+Kelantan,11-Sep-20,160
+Kelantan,12-Sep-20,160
+Kelantan,13-Sep-20,160
+Kelantan,14-Sep-20,160
+Kelantan,15-Sep-20,160
+Kelantan,16-Sep-20,160
+Kelantan,17-Sep-20,160
+Kelantan,18-Sep-20,160
+Kelantan,19-Sep-20,160
+Kelantan,20-Sep-20,160
+Kelantan,21-Sep-20,160
+Kelantan,22-Sep-20,160
+Kelantan,23-Sep-20,161
+Kelantan,24-Sep-20,161
+Kelantan,25-Sep-20,161
+Kelantan,26-Sep-20,161
+Kelantan,27-Sep-20,161
+Kelantan,28-Sep-20,161
+Kelantan,29-Sep-20,162
+Kelantan,30-Sep-20,164
+Kelantan,1-Oct-20,164
+Kelantan,2-Oct-20,166
+Kelantan,3-Oct-20,168
+Kelantan,4-Oct-20,169
+Kelantan,5-Oct-20,170
+Kelantan,6-Oct-20,170
+Kelantan,7-Oct-20,171
+Kelantan,8-Oct-20,171
+Kelantan,9-Oct-20,171
+Kelantan,10-Oct-20,171
+Kelantan,11-Oct-20,171
+Kelantan,12-Oct-20,171
+Kelantan,13-Oct-20,171
+Kelantan,14-Oct-20,171
+Kelantan,15-Oct-20,173
+Kelantan,16-Oct-20,173
+Kelantan,17-Oct-20,173
+Kelantan,18-Oct-20,173
+Kelantan,19-Oct-20,173
+Kelantan,20-Oct-20,174
+Kelantan,21-Oct-20,175
+Kelantan,22-Oct-20,178
+Kelantan,23-Oct-20,178
+Kelantan,24-Oct-20,178
+Kelantan,25-Oct-20,179
+Kelantan,26-Oct-20,179
+Kelantan,27-Oct-20,179
+Kelantan,28-Oct-20,179
+Kelantan,29-Oct-20,179
+Kelantan,30-Oct-20,179
+Kelantan,31-Oct-20,180
+Kelantan,1-Nov-20,180
+Kelantan,2-Nov-20,182
+Kelantan,3-Nov-20,182
+Kelantan,4-Nov-20,184
+Kelantan,5-Nov-20,184
+Kelantan,6-Nov-20,184
+Kelantan,7-Nov-20,184
+Kelantan,8-Nov-20,186
+Kelantan,9-Nov-20,188
+Kelantan,10-Nov-20,197
+Kelantan,11-Nov-20,198
+Kelantan,12-Nov-20,200
+Kelantan,13-Nov-20,205
+Kelantan,14-Nov-20,210
+Kelantan,15-Nov-20,211
+Kelantan,16-Nov-20,218
+Kelantan,17-Nov-20,237
+Kelantan,18-Nov-20,240
+Kelantan,19-Nov-20,257
+Kelantan,20-Nov-20,264
+Kelantan,21-Nov-20,271
+Kelantan,22-Nov-20,279
+Kelantan,23-Nov-20,288
+Kelantan,24-Nov-20,294
+Kelantan,25-Nov-20,302
+Kelantan,26-Nov-20,330
+Kelantan,27-Nov-20,335
+Kelantan,28-Nov-20,353
+Kelantan,29-Nov-20,359
+Kelantan,30-Nov-20,360
+Malacca,25-Jan-20,0
+Malacca,28-Jan-20,0
+Malacca,30-Jan-20,0
+Malacca,3-Feb-20,0
+Malacca,5-Feb-20,0
+Malacca,6-Feb-20,0
+Malacca,7-Feb-20,0
+Malacca,8-Feb-20,0
+Malacca,9-Feb-20,0
+Malacca,13-Feb-20,0
+Malacca,14-Feb-20,0
+Malacca,15-Feb-20,0
+Malacca,27-Feb-20,0
+Malacca,28-Feb-20,0
+Malacca,1-Mar-20,0
+Malacca,3-Mar-20,0
+Malacca,13-Mar-20,1
+Malacca,14-Mar-20,6
+Malacca,16-Mar-20,14
+Malacca,17-Mar-20,17
+Malacca,18-Mar-20,18
+Malacca,19-Mar-20,20
+Malacca,20-Mar-20,22
+Malacca,21-Mar-20,22
+Malacca,22-Mar-20,23
+Malacca,23-Mar-20,25
+Malacca,24-Mar-20,31
+Malacca,25-Mar-20,33
+Malacca,26-Mar-20,33
+Malacca,27-Mar-20,33
+Malacca,28-Mar-20,42
+Malacca,29-Mar-20,43
+Malacca,30-Mar-20,50
+Malacca,31-Mar-20,52
+Malacca,1-Apr-20,63
+Malacca,2-Apr-20,70
+Malacca,3-Apr-20,73
+Malacca,4-Apr-20,75
+Malacca,5-Apr-20,89
+Malacca,6-Apr-20,99
+Malacca,7-Apr-20,103
+Malacca,8-Apr-20,116
+Malacca,9-Apr-20,119
+Malacca,10-Apr-20,133
+Malacca,11-Apr-20,141
+Malacca,12-Apr-20,144
+Malacca,13-Apr-20,144
+Malacca,14-Apr-20,147
+Malacca,15-Apr-20,147
+Malacca,16-Apr-20,147
+Malacca,17-Apr-20,148
+Malacca,18-Apr-20,148
+Malacca,19-Apr-20,185
+Malacca,20-Apr-20,187
+Malacca,21-Apr-20,188
+Malacca,22-Apr-20,189
+Malacca,23-Apr-20,189
+Malacca,24-Apr-20,192
+Malacca,25-Apr-20,192
+Malacca,26-Apr-20,193
+Malacca,27-Apr-20,193
+Malacca,28-Apr-20,193
+Malacca,29-Apr-20,193
+Malacca,30-Apr-20,198
+Malacca,1-May-20,199
+Malacca,2-May-20,201
+Malacca,3-May-20,204
+Malacca,4-May-20,207
+Malacca,5-May-20,207
+Malacca,6-May-20,208
+Malacca,7-May-20,209
+Malacca,8-May-20,209
+Malacca,9-May-20,210
+Malacca,10-May-20,210
+Malacca,11-May-20,211
+Malacca,12-May-20,211
+Malacca,13-May-20,213
+Malacca,14-May-20,214
+Malacca,15-May-20,215
+Malacca,16-May-20,215
+Malacca,17-May-20,215
+Malacca,18-May-20,215
+Malacca,19-May-20,215
+Malacca,20-May-20,215
+Malacca,21-May-20,215
+Malacca,22-May-20,216
+Malacca,23-May-20,216
+Malacca,24-May-20,216
+Malacca,25-May-20,216
+Malacca,26-May-20,216
+Malacca,27-May-20,216
+Malacca,28-May-20,216
+Malacca,29-May-20,216
+Malacca,30-May-20,218
+Malacca,31-May-20,219
+Malacca,1-Jun-20,232
+Malacca,2-Jun-20,233
+Malacca,3-Jun-20,233
+Malacca,4-Jun-20,233
+Malacca,5-Jun-20,234
+Malacca,6-Jun-20,234
+Malacca,7-Jun-20,234
+Malacca,8-Jun-20,235
+Malacca,9-Jun-20,235
+Malacca,10-Jun-20,235
+Malacca,11-Jun-20,246
+Malacca,12-Jun-20,250
+Malacca,13-Jun-20,252
+Malacca,14-Jun-20,253
+Malacca,15-Jun-20,255
+Malacca,16-Jun-20,255
+Malacca,17-Jun-20,255
+Malacca,18-Jun-20,255
+Malacca,19-Jun-20,255
+Malacca,20-Jun-20,255
+Malacca,21-Jun-20,256
+Malacca,22-Jun-20,256
+Malacca,23-Jun-20,256
+Malacca,24-Jun-20,256
+Malacca,25-Jun-20,256
+Malacca,26-Jun-20,256
+Malacca,27-Jun-20,256
+Malacca,28-Jun-20,256
+Malacca,29-Jun-20,256
+Malacca,30-Jun-20,256
+Malacca,1-Jul-20,256
+Malacca,2-Jul-20,256
+Malacca,3-Jul-20,256
+Malacca,4-Jul-20,256
+Malacca,5-Jul-20,256
+Malacca,6-Jul-20,256
+Malacca,7-Jul-20,256
+Malacca,8-Jul-20,256
+Malacca,9-Jul-20,256
+Malacca,10-Jul-20,256
+Malacca,11-Jul-20,256
+Malacca,12-Jul-20,257
+Malacca,13-Jul-20,258
+Malacca,14-Jul-20,258
+Malacca,15-Jul-20,258
+Malacca,16-Jul-20,258
+Malacca,17-Jul-20,258
+Malacca,18-Jul-20,258
+Malacca,19-Jul-20,258
+Malacca,20-Jul-20,258
+Malacca,21-Jul-20,258
+Malacca,22-Jul-20,258
+Malacca,23-Jul-20,258
+Malacca,24-Jul-20,258
+Malacca,25-Jul-20,258
+Malacca,26-Jul-20,258
+Malacca,27-Jul-20,258
+Malacca,28-Jul-20,258
+Malacca,29-Jul-20,258
+Malacca,30-Jul-20,258
+Malacca,31-Jul-20,258
+Malacca,1-Aug-20,258
+Malacca,2-Aug-20,258
+Malacca,3-Aug-20,258
+Malacca,4-Aug-20,258
+Malacca,5-Aug-20,258
+Malacca,6-Aug-20,258
+Malacca,7-Aug-20,258
+Malacca,8-Aug-20,258
+Malacca,9-Aug-20,258
+Malacca,10-Aug-20,259
+Malacca,11-Aug-20,259
+Malacca,12-Aug-20,259
+Malacca,13-Aug-20,259
+Malacca,14-Aug-20,259
+Malacca,15-Aug-20,259
+Malacca,16-Aug-20,259
+Malacca,17-Aug-20,259
+Malacca,18-Aug-20,259
+Malacca,19-Aug-20,259
+Malacca,20-Aug-20,259
+Malacca,21-Aug-20,259
+Malacca,22-Aug-20,259
+Malacca,23-Aug-20,259
+Malacca,24-Aug-20,259
+Malacca,25-Aug-20,259
+Malacca,26-Aug-20,259
+Malacca,27-Aug-20,262
+Malacca,28-Aug-20,262
+Malacca,29-Aug-20,262
+Malacca,30-Aug-20,262
+Malacca,31-Aug-20,262
+Malacca,1-Sep-20,262
+Malacca,2-Sep-20,262
+Malacca,3-Sep-20,262
+Malacca,4-Sep-20,262
+Malacca,5-Sep-20,262
+Malacca,6-Sep-20,262
+Malacca,7-Sep-20,262
+Malacca,8-Sep-20,262
+Malacca,9-Sep-20,262
+Malacca,10-Sep-20,262
+Malacca,11-Sep-20,262
+Malacca,12-Sep-20,262
+Malacca,13-Sep-20,262
+Malacca,14-Sep-20,262
+Malacca,15-Sep-20,262
+Malacca,16-Sep-20,262
+Malacca,17-Sep-20,262
+Malacca,18-Sep-20,262
+Malacca,19-Sep-20,262
+Malacca,20-Sep-20,262
+Malacca,21-Sep-20,262
+Malacca,22-Sep-20,262
+Malacca,23-Sep-20,262
+Malacca,24-Sep-20,262
+Malacca,25-Sep-20,262
+Malacca,26-Sep-20,263
+Malacca,27-Sep-20,264
+Malacca,28-Sep-20,265
+Malacca,29-Sep-20,266
+Malacca,30-Sep-20,266
+Malacca,1-Oct-20,267
+Malacca,2-Oct-20,267
+Malacca,3-Oct-20,267
+Malacca,4-Oct-20,267
+Malacca,5-Oct-20,268
+Malacca,6-Oct-20,268
+Malacca,7-Oct-20,268
+Malacca,8-Oct-20,269
+Malacca,9-Oct-20,269
+Malacca,10-Oct-20,270
+Malacca,11-Oct-20,273
+Malacca,12-Oct-20,274
+Malacca,13-Oct-20,274
+Malacca,14-Oct-20,276
+Malacca,15-Oct-20,278
+Malacca,16-Oct-20,281
+Malacca,17-Oct-20,282
+Malacca,18-Oct-20,283
+Malacca,19-Oct-20,299
+Malacca,20-Oct-20,299
+Malacca,21-Oct-20,302
+Malacca,22-Oct-20,305
+Malacca,23-Oct-20,305
+Malacca,24-Oct-20,308
+Malacca,25-Oct-20,308
+Malacca,26-Oct-20,310
+Malacca,27-Oct-20,310
+Malacca,28-Oct-20,310
+Malacca,29-Oct-20,311
+Malacca,30-Oct-20,311
+Malacca,31-Oct-20,311
+Malacca,1-Nov-20,312
+Malacca,2-Nov-20,312
+Malacca,3-Nov-20,313
+Malacca,4-Nov-20,313
+Malacca,5-Nov-20,318
+Malacca,6-Nov-20,320
+Malacca,7-Nov-20,322
+Malacca,8-Nov-20,327
+Malacca,9-Nov-20,332
+Malacca,10-Nov-20,332
+Malacca,11-Nov-20,338
+Malacca,12-Nov-20,346
+Malacca,13-Nov-20,359
+Malacca,14-Nov-20,365
+Malacca,15-Nov-20,367
+Malacca,16-Nov-20,368
+Malacca,17-Nov-20,370
+Malacca,18-Nov-20,374
+Malacca,19-Nov-20,375
+Malacca,20-Nov-20,377
+Malacca,21-Nov-20,377
+Malacca,22-Nov-20,382
+Malacca,23-Nov-20,382
+Malacca,24-Nov-20,384
+Malacca,25-Nov-20,385
+Malacca,26-Nov-20,385
+Malacca,27-Nov-20,385
+Malacca,28-Nov-20,386
+Malacca,29-Nov-20,387
+Malacca,30-Nov-20,387
+Negeri Sembilan,25-Jan-20,0
+Negeri Sembilan,28-Jan-20,0
+Negeri Sembilan,30-Jan-20,0
+Negeri Sembilan,3-Feb-20,0
+Negeri Sembilan,5-Feb-20,2
+Negeri Sembilan,6-Feb-20,2
+Negeri Sembilan,7-Feb-20,2
+Negeri Sembilan,8-Feb-20,2
+Negeri Sembilan,9-Feb-20,2
+Negeri Sembilan,13-Feb-20,2
+Negeri Sembilan,14-Feb-20,2
+Negeri Sembilan,15-Feb-20,2
+Negeri Sembilan,27-Feb-20,2
+Negeri Sembilan,28-Feb-20,2
+Negeri Sembilan,1-Mar-20,2
+Negeri Sembilan,3-Mar-20,2
+Negeri Sembilan,13-Mar-20,11
+Negeri Sembilan,14-Mar-20,19
+Negeri Sembilan,16-Mar-20,42
+Negeri Sembilan,17-Mar-20,45
+Negeri Sembilan,18-Mar-20,45
+Negeri Sembilan,19-Mar-20,55
+Negeri Sembilan,20-Mar-20,65
+Negeri Sembilan,21-Mar-20,70
+Negeri Sembilan,22-Mar-20,78
+Negeri Sembilan,23-Mar-20,94
+Negeri Sembilan,24-Mar-20,109
+Negeri Sembilan,25-Mar-20,123
+Negeri Sembilan,26-Mar-20,132
+Negeri Sembilan,27-Mar-20,138
+Negeri Sembilan,28-Mar-20,153
+Negeri Sembilan,29-Mar-20,162
+Negeri Sembilan,30-Mar-20,172
+Negeri Sembilan,31-Mar-20,181
+Negeri Sembilan,1-Apr-20,189
+Negeri Sembilan,2-Apr-20,207
+Negeri Sembilan,3-Apr-20,211
+Negeri Sembilan,4-Apr-20,220
+Negeri Sembilan,5-Apr-20,231
+Negeri Sembilan,6-Apr-20,239
+Negeri Sembilan,7-Apr-20,261
+Negeri Sembilan,8-Apr-20,270
+Negeri Sembilan,9-Apr-20,281
+Negeri Sembilan,10-Apr-20,292
+Negeri Sembilan,11-Apr-20,309
+Negeri Sembilan,12-Apr-20,318
+Negeri Sembilan,13-Apr-20,360
+Negeri Sembilan,14-Apr-20,362
+Negeri Sembilan,15-Apr-20,363
+Negeri Sembilan,16-Apr-20,389
+Negeri Sembilan,17-Apr-20,402
+Negeri Sembilan,18-Apr-20,405
+Negeri Sembilan,19-Apr-20,405
+Negeri Sembilan,20-Apr-20,408
+Negeri Sembilan,21-Apr-20,409
+Negeri Sembilan,22-Apr-20,411
+Negeri Sembilan,23-Apr-20,431
+Negeri Sembilan,24-Apr-20,433
+Negeri Sembilan,25-Apr-20,433
+Negeri Sembilan,26-Apr-20,434
+Negeri Sembilan,27-Apr-20,435
+Negeri Sembilan,28-Apr-20,436
+Negeri Sembilan,29-Apr-20,508
+Negeri Sembilan,30-Apr-20,513
+Negeri Sembilan,1-May-20,513
+Negeri Sembilan,2-May-20,521
+Negeri Sembilan,3-May-20,592
+Negeri Sembilan,4-May-20,598
+Negeri Sembilan,5-May-20,598
+Negeri Sembilan,6-May-20,600
+Negeri Sembilan,7-May-20,600
+Negeri Sembilan,8-May-20,653
+Negeri Sembilan,9-May-20,681
+Negeri Sembilan,10-May-20,726
+Negeri Sembilan,11-May-20,742
+Negeri Sembilan,12-May-20,742
+Negeri Sembilan,13-May-20,764
+Negeri Sembilan,14-May-20,775
+Negeri Sembilan,15-May-20,776
+Negeri Sembilan,16-May-20,776
+Negeri Sembilan,17-May-20,776
+Negeri Sembilan,18-May-20,776
+Negeri Sembilan,19-May-20,776
+Negeri Sembilan,20-May-20,776
+Negeri Sembilan,21-May-20,778
+Negeri Sembilan,22-May-20,791
+Negeri Sembilan,23-May-20,792
+Negeri Sembilan,24-May-20,792
+Negeri Sembilan,25-May-20,792
+Negeri Sembilan,26-May-20,793
+Negeri Sembilan,27-May-20,793
+Negeri Sembilan,28-May-20,793
+Negeri Sembilan,29-May-20,852
+Negeri Sembilan,30-May-20,856
+Negeri Sembilan,31-May-20,858
+Negeri Sembilan,1-Jun-20,860
+Negeri Sembilan,2-Jun-20,866
+Negeri Sembilan,3-Jun-20,902
+Negeri Sembilan,4-Jun-20,905
+Negeri Sembilan,5-Jun-20,905
+Negeri Sembilan,6-Jun-20,910
+Negeri Sembilan,7-Jun-20,911
+Negeri Sembilan,8-Jun-20,911
+Negeri Sembilan,9-Jun-20,911
+Negeri Sembilan,10-Jun-20,911
+Negeri Sembilan,11-Jun-20,927
+Negeri Sembilan,12-Jun-20,931
+Negeri Sembilan,13-Jun-20,957
+Negeri Sembilan,14-Jun-20,957
+Negeri Sembilan,15-Jun-20,989
+Negeri Sembilan,16-Jun-20,993
+Negeri Sembilan,17-Jun-20,994
+Negeri Sembilan,18-Jun-20,994
+Negeri Sembilan,19-Jun-20,995
+Negeri Sembilan,20-Jun-20,996
+Negeri Sembilan,21-Jun-20,1002
+Negeri Sembilan,22-Jun-20,1014
+Negeri Sembilan,23-Jun-20,1015
+Negeri Sembilan,24-Jun-20,1015
+Negeri Sembilan,25-Jun-20,1015
+Negeri Sembilan,26-Jun-20,1015
+Negeri Sembilan,27-Jun-20,1016
+Negeri Sembilan,28-Jun-20,1025
+Negeri Sembilan,29-Jun-20,1025
+Negeri Sembilan,30-Jun-20,1025
+Negeri Sembilan,1-Jul-20,1025
+Negeri Sembilan,2-Jul-20,1025
+Negeri Sembilan,3-Jul-20,1025
+Negeri Sembilan,4-Jul-20,1026
+Negeri Sembilan,5-Jul-20,1027
+Negeri Sembilan,6-Jul-20,1027
+Negeri Sembilan,7-Jul-20,1027
+Negeri Sembilan,8-Jul-20,1027
+Negeri Sembilan,9-Jul-20,1027
+Negeri Sembilan,10-Jul-20,1027
+Negeri Sembilan,11-Jul-20,1027
+Negeri Sembilan,12-Jul-20,1027
+Negeri Sembilan,13-Jul-20,1027
+Negeri Sembilan,14-Jul-20,1027
+Negeri Sembilan,15-Jul-20,1027
+Negeri Sembilan,16-Jul-20,1027
+Negeri Sembilan,17-Jul-20,1027
+Negeri Sembilan,18-Jul-20,1027
+Negeri Sembilan,19-Jul-20,1027
+Negeri Sembilan,20-Jul-20,1028
+Negeri Sembilan,21-Jul-20,1028
+Negeri Sembilan,22-Jul-20,1028
+Negeri Sembilan,23-Jul-20,1028
+Negeri Sembilan,24-Jul-20,1028
+Negeri Sembilan,25-Jul-20,1028
+Negeri Sembilan,26-Jul-20,1028
+Negeri Sembilan,27-Jul-20,1028
+Negeri Sembilan,28-Jul-20,1028
+Negeri Sembilan,29-Jul-20,1028
+Negeri Sembilan,30-Jul-20,1028
+Negeri Sembilan,31-Jul-20,1029
+Negeri Sembilan,1-Aug-20,1029
+Negeri Sembilan,2-Aug-20,1029
+Negeri Sembilan,3-Aug-20,1029
+Negeri Sembilan,4-Aug-20,1029
+Negeri Sembilan,5-Aug-20,1029
+Negeri Sembilan,6-Aug-20,1031
+Negeri Sembilan,7-Aug-20,1031
+Negeri Sembilan,8-Aug-20,1032
+Negeri Sembilan,9-Aug-20,1032
+Negeri Sembilan,10-Aug-20,1032
+Negeri Sembilan,11-Aug-20,1032
+Negeri Sembilan,12-Aug-20,1032
+Negeri Sembilan,13-Aug-20,1032
+Negeri Sembilan,14-Aug-20,1032
+Negeri Sembilan,15-Aug-20,1034
+Negeri Sembilan,16-Aug-20,1034
+Negeri Sembilan,17-Aug-20,1034
+Negeri Sembilan,18-Aug-20,1034
+Negeri Sembilan,19-Aug-20,1034
+Negeri Sembilan,20-Aug-20,1034
+Negeri Sembilan,21-Aug-20,1034
+Negeri Sembilan,22-Aug-20,1034
+Negeri Sembilan,23-Aug-20,1034
+Negeri Sembilan,24-Aug-20,1034
+Negeri Sembilan,25-Aug-20,1034
+Negeri Sembilan,26-Aug-20,1034
+Negeri Sembilan,27-Aug-20,1034
+Negeri Sembilan,28-Aug-20,1034
+Negeri Sembilan,29-Aug-20,1034
+Negeri Sembilan,30-Aug-20,1034
+Negeri Sembilan,31-Aug-20,1034
+Negeri Sembilan,1-Sep-20,1034
+Negeri Sembilan,2-Sep-20,1034
+Negeri Sembilan,3-Sep-20,1036
+Negeri Sembilan,4-Sep-20,1037
+Negeri Sembilan,5-Sep-20,1037
+Negeri Sembilan,6-Sep-20,1037
+Negeri Sembilan,7-Sep-20,1037
+Negeri Sembilan,8-Sep-20,1038
+Negeri Sembilan,9-Sep-20,1039
+Negeri Sembilan,10-Sep-20,1039
+Negeri Sembilan,11-Sep-20,1039
+Negeri Sembilan,12-Sep-20,1039
+Negeri Sembilan,13-Sep-20,1039
+Negeri Sembilan,14-Sep-20,1043
+Negeri Sembilan,15-Sep-20,1043
+Negeri Sembilan,16-Sep-20,1043
+Negeri Sembilan,17-Sep-20,1043
+Negeri Sembilan,18-Sep-20,1044
+Negeri Sembilan,19-Sep-20,1044
+Negeri Sembilan,20-Sep-20,1044
+Negeri Sembilan,21-Sep-20,1044
+Negeri Sembilan,22-Sep-20,1044
+Negeri Sembilan,23-Sep-20,1044
+Negeri Sembilan,24-Sep-20,1044
+Negeri Sembilan,25-Sep-20,1044
+Negeri Sembilan,26-Sep-20,1047
+Negeri Sembilan,27-Sep-20,1047
+Negeri Sembilan,28-Sep-20,1048
+Negeri Sembilan,29-Sep-20,1048
+Negeri Sembilan,30-Sep-20,1049
+Negeri Sembilan,1-Oct-20,1049
+Negeri Sembilan,2-Oct-20,1051
+Negeri Sembilan,3-Oct-20,1052
+Negeri Sembilan,4-Oct-20,1054
+Negeri Sembilan,5-Oct-20,1055
+Negeri Sembilan,6-Oct-20,1062
+Negeri Sembilan,7-Oct-20,1063
+Negeri Sembilan,8-Oct-20,1065
+Negeri Sembilan,9-Oct-20,1069
+Negeri Sembilan,10-Oct-20,1069
+Negeri Sembilan,11-Oct-20,1069
+Negeri Sembilan,12-Oct-20,1081
+Negeri Sembilan,13-Oct-20,1083
+Negeri Sembilan,14-Oct-20,1084
+Negeri Sembilan,15-Oct-20,1095
+Negeri Sembilan,16-Oct-20,1096
+Negeri Sembilan,17-Oct-20,1097
+Negeri Sembilan,18-Oct-20,1100
+Negeri Sembilan,19-Oct-20,1104
+Negeri Sembilan,20-Oct-20,1110
+Negeri Sembilan,21-Oct-20,1119
+Negeri Sembilan,22-Oct-20,1157
+Negeri Sembilan,23-Oct-20,1194
+Negeri Sembilan,24-Oct-20,1290
+Negeri Sembilan,25-Oct-20,1312
+Negeri Sembilan,26-Oct-20,1337
+Negeri Sembilan,27-Oct-20,1492
+Negeri Sembilan,28-Oct-20,1516
+Negeri Sembilan,29-Oct-20,1559
+Negeri Sembilan,30-Oct-20,1582
+Negeri Sembilan,31-Oct-20,1607
+Negeri Sembilan,1-Nov-20,1615
+Negeri Sembilan,2-Nov-20,1631
+Negeri Sembilan,3-Nov-20,1702
+Negeri Sembilan,4-Nov-20,1746
+Negeri Sembilan,5-Nov-20,1836
+Negeri Sembilan,6-Nov-20,1881
+Negeri Sembilan,7-Nov-20,1949
+Negeri Sembilan,8-Nov-20,2053
+Negeri Sembilan,9-Nov-20,2313
+Negeri Sembilan,10-Nov-20,2454
+Negeri Sembilan,11-Nov-20,2679
+Negeri Sembilan,12-Nov-20,2919
+Negeri Sembilan,13-Nov-20,3002
+Negeri Sembilan,14-Nov-20,3373
+Negeri Sembilan,15-Nov-20,3421
+Negeri Sembilan,16-Nov-20,3511
+Negeri Sembilan,17-Nov-20,3578
+Negeri Sembilan,18-Nov-20,3609
+Negeri Sembilan,19-Nov-20,3641
+Negeri Sembilan,20-Nov-20,3794
+Negeri Sembilan,21-Nov-20,3915
+Negeri Sembilan,22-Nov-20,3944
+Negeri Sembilan,23-Nov-20,3985
+Negeri Sembilan,24-Nov-20,4058
+Negeri Sembilan,25-Nov-20,4376
+Negeri Sembilan,26-Nov-20,4534
+Negeri Sembilan,27-Nov-20,4701
+Negeri Sembilan,28-Nov-20,4742
+Negeri Sembilan,29-Nov-20,4774
+Negeri Sembilan,30-Nov-20,4915
+Pahang,25-Jan-20,0
+Pahang,28-Jan-20,0
+Pahang,30-Jan-20,0
+Pahang,3-Feb-20,0
+Pahang,5-Feb-20,0
+Pahang,6-Feb-20,0
+Pahang,7-Feb-20,0
+Pahang,8-Feb-20,0
+Pahang,9-Feb-20,0
+Pahang,13-Feb-20,0
+Pahang,14-Feb-20,0
+Pahang,15-Feb-20,0
+Pahang,27-Feb-20,0
+Pahang,28-Feb-20,0
+Pahang,1-Mar-20,0
+Pahang,3-Mar-20,0
+Pahang,13-Mar-20,2
+Pahang,14-Mar-20,2
+Pahang,16-Mar-20,19
+Pahang,17-Mar-20,28
+Pahang,18-Mar-20,29
+Pahang,19-Mar-20,32
+Pahang,20-Mar-20,36
+Pahang,21-Mar-20,37
+Pahang,22-Mar-20,40
+Pahang,23-Mar-20,56
+Pahang,24-Mar-20,56
+Pahang,25-Mar-20,64
+Pahang,26-Mar-20,66
+Pahang,27-Mar-20,70
+Pahang,28-Mar-20,84
+Pahang,29-Mar-20,96
+Pahang,30-Mar-20,99
+Pahang,31-Mar-20,102
+Pahang,1-Apr-20,111
+Pahang,2-Apr-20,114
+Pahang,3-Apr-20,127
+Pahang,4-Apr-20,151
+Pahang,5-Apr-20,158
+Pahang,6-Apr-20,161
+Pahang,7-Apr-20,166
+Pahang,8-Apr-20,169
+Pahang,9-Apr-20,183
+Pahang,10-Apr-20,187
+Pahang,11-Apr-20,214
+Pahang,12-Apr-20,225
+Pahang,13-Apr-20,225
+Pahang,14-Apr-20,236
+Pahang,15-Apr-20,253
+Pahang,16-Apr-20,261
+Pahang,17-Apr-20,262
+Pahang,18-Apr-20,264
+Pahang,19-Apr-20,269
+Pahang,20-Apr-20,271
+Pahang,21-Apr-20,279
+Pahang,22-Apr-20,285
+Pahang,23-Apr-20,286
+Pahang,24-Apr-20,287
+Pahang,25-Apr-20,288
+Pahang,26-Apr-20,288
+Pahang,27-Apr-20,288
+Pahang,28-Apr-20,288
+Pahang,29-Apr-20,293
+Pahang,30-Apr-20,294
+Pahang,1-May-20,297
+Pahang,2-May-20,305
+Pahang,3-May-20,305
+Pahang,4-May-20,305
+Pahang,5-May-20,305
+Pahang,6-May-20,305
+Pahang,7-May-20,305
+Pahang,8-May-20,306
+Pahang,9-May-20,306
+Pahang,10-May-20,308
+Pahang,11-May-20,312
+Pahang,12-May-20,312
+Pahang,13-May-20,315
+Pahang,14-May-20,323
+Pahang,15-May-20,328
+Pahang,16-May-20,335
+Pahang,17-May-20,336
+Pahang,18-May-20,336
+Pahang,19-May-20,338
+Pahang,20-May-20,338
+Pahang,21-May-20,339
+Pahang,22-May-20,341
+Pahang,23-May-20,344
+Pahang,24-May-20,344
+Pahang,25-May-20,344
+Pahang,26-May-20,344
+Pahang,27-May-20,344
+Pahang,28-May-20,345
+Pahang,29-May-20,346
+Pahang,30-May-20,346
+Pahang,31-May-20,361
+Pahang,1-Jun-20,361
+Pahang,2-Jun-20,361
+Pahang,3-Jun-20,361
+Pahang,4-Jun-20,362
+Pahang,5-Jun-20,363
+Pahang,6-Jun-20,363
+Pahang,7-Jun-20,363
+Pahang,8-Jun-20,363
+Pahang,9-Jun-20,363
+Pahang,10-Jun-20,363
+Pahang,11-Jun-20,363
+Pahang,12-Jun-20,363
+Pahang,13-Jun-20,365
+Pahang,14-Jun-20,365
+Pahang,15-Jun-20,365
+Pahang,16-Jun-20,365
+Pahang,17-Jun-20,365
+Pahang,18-Jun-20,365
+Pahang,19-Jun-20,365
+Pahang,20-Jun-20,365
+Pahang,21-Jun-20,365
+Pahang,22-Jun-20,365
+Pahang,23-Jun-20,365
+Pahang,24-Jun-20,365
+Pahang,25-Jun-20,365
+Pahang,26-Jun-20,365
+Pahang,27-Jun-20,365
+Pahang,28-Jun-20,365
+Pahang,29-Jun-20,365
+Pahang,30-Jun-20,365
+Pahang,1-Jul-20,365
+Pahang,2-Jul-20,365
+Pahang,3-Jul-20,365
+Pahang,4-Jul-20,365
+Pahang,5-Jul-20,365
+Pahang,6-Jul-20,365
+Pahang,7-Jul-20,365
+Pahang,8-Jul-20,365
+Pahang,9-Jul-20,365
+Pahang,10-Jul-20,365
+Pahang,11-Jul-20,365
+Pahang,12-Jul-20,365
+Pahang,13-Jul-20,365
+Pahang,14-Jul-20,365
+Pahang,15-Jul-20,365
+Pahang,16-Jul-20,365
+Pahang,17-Jul-20,365
+Pahang,18-Jul-20,365
+Pahang,19-Jul-20,365
+Pahang,20-Jul-20,365
+Pahang,21-Jul-20,365
+Pahang,22-Jul-20,365
+Pahang,23-Jul-20,366
+Pahang,24-Jul-20,369
+Pahang,25-Jul-20,369
+Pahang,26-Jul-20,370
+Pahang,27-Jul-20,370
+Pahang,28-Jul-20,370
+Pahang,29-Jul-20,370
+Pahang,30-Jul-20,370
+Pahang,31-Jul-20,370
+Pahang,1-Aug-20,370
+Pahang,2-Aug-20,370
+Pahang,3-Aug-20,370
+Pahang,4-Aug-20,370
+Pahang,5-Aug-20,370
+Pahang,6-Aug-20,370
+Pahang,7-Aug-20,370
+Pahang,8-Aug-20,370
+Pahang,9-Aug-20,370
+Pahang,10-Aug-20,370
+Pahang,11-Aug-20,370
+Pahang,12-Aug-20,370
+Pahang,13-Aug-20,370
+Pahang,14-Aug-20,370
+Pahang,15-Aug-20,370
+Pahang,16-Aug-20,370
+Pahang,17-Aug-20,370
+Pahang,18-Aug-20,370
+Pahang,19-Aug-20,370
+Pahang,20-Aug-20,370
+Pahang,21-Aug-20,370
+Pahang,22-Aug-20,370
+Pahang,23-Aug-20,370
+Pahang,24-Aug-20,370
+Pahang,25-Aug-20,370
+Pahang,26-Aug-20,370
+Pahang,27-Aug-20,370
+Pahang,28-Aug-20,370
+Pahang,29-Aug-20,370
+Pahang,30-Aug-20,370
+Pahang,31-Aug-20,370
+Pahang,1-Sep-20,370
+Pahang,2-Sep-20,371
+Pahang,3-Sep-20,371
+Pahang,4-Sep-20,371
+Pahang,5-Sep-20,371
+Pahang,6-Sep-20,371
+Pahang,7-Sep-20,371
+Pahang,8-Sep-20,371
+Pahang,9-Sep-20,371
+Pahang,10-Sep-20,371
+Pahang,11-Sep-20,371
+Pahang,12-Sep-20,371
+Pahang,13-Sep-20,371
+Pahang,14-Sep-20,371
+Pahang,15-Sep-20,371
+Pahang,16-Sep-20,371
+Pahang,17-Sep-20,371
+Pahang,18-Sep-20,371
+Pahang,19-Sep-20,371
+Pahang,20-Sep-20,371
+Pahang,21-Sep-20,371
+Pahang,22-Sep-20,371
+Pahang,23-Sep-20,371
+Pahang,24-Sep-20,371
+Pahang,25-Sep-20,372
+Pahang,26-Sep-20,373
+Pahang,27-Sep-20,377
+Pahang,28-Sep-20,377
+Pahang,29-Sep-20,377
+Pahang,30-Sep-20,379
+Pahang,1-Oct-20,380
+Pahang,2-Oct-20,381
+Pahang,3-Oct-20,381
+Pahang,4-Oct-20,381
+Pahang,5-Oct-20,382
+Pahang,6-Oct-20,382
+Pahang,7-Oct-20,384
+Pahang,8-Oct-20,385
+Pahang,9-Oct-20,385
+Pahang,10-Oct-20,385
+Pahang,11-Oct-20,385
+Pahang,12-Oct-20,385
+Pahang,13-Oct-20,386
+Pahang,14-Oct-20,386
+Pahang,15-Oct-20,386
+Pahang,16-Oct-20,387
+Pahang,17-Oct-20,387
+Pahang,18-Oct-20,387
+Pahang,19-Oct-20,388
+Pahang,20-Oct-20,388
+Pahang,21-Oct-20,389
+Pahang,22-Oct-20,391
+Pahang,23-Oct-20,392
+Pahang,24-Oct-20,392
+Pahang,25-Oct-20,392
+Pahang,26-Oct-20,392
+Pahang,27-Oct-20,392
+Pahang,28-Oct-20,392
+Pahang,29-Oct-20,393
+Pahang,30-Oct-20,393
+Pahang,31-Oct-20,394
+Pahang,1-Nov-20,394
+Pahang,2-Nov-20,395
+Pahang,3-Nov-20,395
+Pahang,4-Nov-20,395
+Pahang,5-Nov-20,395
+Pahang,6-Nov-20,395
+Pahang,7-Nov-20,395
+Pahang,8-Nov-20,395
+Pahang,9-Nov-20,395
+Pahang,10-Nov-20,395
+Pahang,11-Nov-20,395
+Pahang,12-Nov-20,395
+Pahang,13-Nov-20,395
+Pahang,14-Nov-20,395
+Pahang,15-Nov-20,395
+Pahang,16-Nov-20,395
+Pahang,17-Nov-20,395
+Pahang,18-Nov-20,395
+Pahang,19-Nov-20,395
+Pahang,20-Nov-20,395
+Pahang,21-Nov-20,395
+Pahang,22-Nov-20,395
+Pahang,23-Nov-20,395
+Pahang,24-Nov-20,395
+Pahang,25-Nov-20,397
+Pahang,26-Nov-20,397
+Pahang,27-Nov-20,400
+Pahang,28-Nov-20,400
+Pahang,29-Nov-20,401
+Pahang,30-Nov-20,403
+Penang,25-Jan-20,0
+Penang,28-Jan-20,0
+Penang,30-Jan-20,0
+Penang,3-Feb-20,0
+Penang,5-Feb-20,0
+Penang,6-Feb-20,0
+Penang,7-Feb-20,0
+Penang,8-Feb-20,0
+Penang,9-Feb-20,0
+Penang,13-Feb-20,0
+Penang,14-Feb-20,0
+Penang,15-Feb-20,0
+Penang,27-Feb-20,0
+Penang,28-Feb-20,0
+Penang,1-Mar-20,0
+Penang,3-Mar-20,0
+Penang,13-Mar-20,7
+Penang,14-Mar-20,7
+Penang,16-Mar-20,15
+Penang,17-Mar-20,23
+Penang,18-Mar-20,30
+Penang,19-Mar-20,32
+Penang,20-Mar-20,37
+Penang,21-Mar-20,50
+Penang,22-Mar-20,58
+Penang,23-Mar-20,66
+Penang,24-Mar-20,68
+Penang,25-Mar-20,70
+Penang,26-Mar-20,74
+Penang,27-Mar-20,80
+Penang,28-Mar-20,86
+Penang,29-Mar-20,87
+Penang,30-Mar-20,88
+Penang,31-Mar-20,94
+Penang,1-Apr-20,96
+Penang,2-Apr-20,98
+Penang,3-Apr-20,98
+Penang,4-Apr-20,99
+Penang,5-Apr-20,101
+Penang,6-Apr-20,101
+Penang,7-Apr-20,102
+Penang,8-Apr-20,108
+Penang,9-Apr-20,108
+Penang,10-Apr-20,109
+Penang,11-Apr-20,114
+Penang,12-Apr-20,116
+Penang,13-Apr-20,116
+Penang,14-Apr-20,119
+Penang,15-Apr-20,119
+Penang,16-Apr-20,119
+Penang,17-Apr-20,119
+Penang,18-Apr-20,119
+Penang,19-Apr-20,119
+Penang,20-Apr-20,119
+Penang,21-Apr-20,119
+Penang,22-Apr-20,119
+Penang,23-Apr-20,119
+Penang,24-Apr-20,119
+Penang,25-Apr-20,119
+Penang,26-Apr-20,121
+Penang,27-Apr-20,121
+Penang,28-Apr-20,121
+Penang,29-Apr-20,121
+Penang,30-Apr-20,121
+Penang,1-May-20,121
+Penang,2-May-20,121
+Penang,3-May-20,121
+Penang,4-May-20,121
+Penang,5-May-20,121
+Penang,6-May-20,121
+Penang,7-May-20,121
+Penang,8-May-20,121
+Penang,9-May-20,121
+Penang,10-May-20,121
+Penang,11-May-20,121
+Penang,12-May-20,121
+Penang,13-May-20,121
+Penang,14-May-20,121
+Penang,15-May-20,121
+Penang,16-May-20,121
+Penang,17-May-20,121
+Penang,18-May-20,121
+Penang,19-May-20,121
+Penang,20-May-20,121
+Penang,21-May-20,121
+Penang,22-May-20,121
+Penang,23-May-20,121
+Penang,24-May-20,121
+Penang,25-May-20,121
+Penang,26-May-20,121
+Penang,27-May-20,121
+Penang,28-May-20,121
+Penang,29-May-20,121
+Penang,30-May-20,121
+Penang,31-May-20,121
+Penang,1-Jun-20,121
+Penang,2-Jun-20,121
+Penang,3-Jun-20,121
+Penang,4-Jun-20,121
+Penang,5-Jun-20,121
+Penang,6-Jun-20,121
+Penang,7-Jun-20,121
+Penang,8-Jun-20,121
+Penang,9-Jun-20,121
+Penang,10-Jun-20,121
+Penang,11-Jun-20,121
+Penang,12-Jun-20,121
+Penang,13-Jun-20,121
+Penang,14-Jun-20,121
+Penang,15-Jun-20,121
+Penang,16-Jun-20,121
+Penang,17-Jun-20,121
+Penang,18-Jun-20,121
+Penang,19-Jun-20,121
+Penang,20-Jun-20,121
+Penang,21-Jun-20,121
+Penang,22-Jun-20,121
+Penang,23-Jun-20,121
+Penang,24-Jun-20,121
+Penang,25-Jun-20,121
+Penang,26-Jun-20,121
+Penang,27-Jun-20,121
+Penang,28-Jun-20,121
+Penang,29-Jun-20,121
+Penang,30-Jun-20,121
+Penang,1-Jul-20,121
+Penang,2-Jul-20,121
+Penang,3-Jul-20,121
+Penang,4-Jul-20,121
+Penang,5-Jul-20,121
+Penang,6-Jul-20,121
+Penang,7-Jul-20,121
+Penang,8-Jul-20,121
+Penang,9-Jul-20,121
+Penang,10-Jul-20,121
+Penang,11-Jul-20,121
+Penang,12-Jul-20,121
+Penang,13-Jul-20,121
+Penang,14-Jul-20,121
+Penang,15-Jul-20,121
+Penang,16-Jul-20,121
+Penang,17-Jul-20,121
+Penang,18-Jul-20,121
+Penang,19-Jul-20,121
+Penang,20-Jul-20,121
+Penang,21-Jul-20,121
+Penang,22-Jul-20,121
+Penang,23-Jul-20,121
+Penang,24-Jul-20,121
+Penang,25-Jul-20,121
+Penang,26-Jul-20,121
+Penang,27-Jul-20,121
+Penang,28-Jul-20,121
+Penang,29-Jul-20,121
+Penang,30-Jul-20,121
+Penang,31-Jul-20,121
+Penang,1-Aug-20,121
+Penang,2-Aug-20,121
+Penang,3-Aug-20,121
+Penang,4-Aug-20,121
+Penang,5-Aug-20,121
+Penang,6-Aug-20,121
+Penang,7-Aug-20,122
+Penang,8-Aug-20,122
+Penang,9-Aug-20,125
+Penang,10-Aug-20,125
+Penang,11-Aug-20,125
+Penang,12-Aug-20,125
+Penang,13-Aug-20,125
+Penang,14-Aug-20,126
+Penang,15-Aug-20,128
+Penang,16-Aug-20,129
+Penang,17-Aug-20,132
+Penang,18-Aug-20,132
+Penang,19-Aug-20,136
+Penang,20-Aug-20,136
+Penang,21-Aug-20,136
+Penang,22-Aug-20,136
+Penang,23-Aug-20,136
+Penang,24-Aug-20,136
+Penang,25-Aug-20,136
+Penang,26-Aug-20,136
+Penang,27-Aug-20,136
+Penang,28-Aug-20,136
+Penang,29-Aug-20,136
+Penang,30-Aug-20,136
+Penang,31-Aug-20,136
+Penang,1-Sep-20,136
+Penang,2-Sep-20,136
+Penang,3-Sep-20,136
+Penang,4-Sep-20,136
+Penang,5-Sep-20,136
+Penang,6-Sep-20,137
+Penang,7-Sep-20,138
+Penang,8-Sep-20,138
+Penang,9-Sep-20,138
+Penang,10-Sep-20,138
+Penang,11-Sep-20,138
+Penang,12-Sep-20,138
+Penang,13-Sep-20,138
+Penang,14-Sep-20,138
+Penang,15-Sep-20,138
+Penang,16-Sep-20,139
+Penang,17-Sep-20,141
+Penang,18-Sep-20,141
+Penang,19-Sep-20,141
+Penang,20-Sep-20,142
+Penang,21-Sep-20,142
+Penang,22-Sep-20,142
+Penang,23-Sep-20,142
+Penang,24-Sep-20,142
+Penang,25-Sep-20,142
+Penang,26-Sep-20,142
+Penang,27-Sep-20,142
+Penang,28-Sep-20,142
+Penang,29-Sep-20,143
+Penang,30-Sep-20,144
+Penang,1-Oct-20,145
+Penang,2-Oct-20,145
+Penang,3-Oct-20,148
+Penang,4-Oct-20,149
+Penang,5-Oct-20,149
+Penang,6-Oct-20,152
+Penang,7-Oct-20,159
+Penang,8-Oct-20,160
+Penang,9-Oct-20,168
+Penang,10-Oct-20,171
+Penang,11-Oct-20,172
+Penang,12-Oct-20,313
+Penang,13-Oct-20,336
+Penang,14-Oct-20,353
+Penang,15-Oct-20,369
+Penang,16-Oct-20,402
+Penang,17-Oct-20,591
+Penang,18-Oct-20,636
+Penang,19-Oct-20,662
+Penang,20-Oct-20,670
+Penang,21-Oct-20,682
+Penang,22-Oct-20,692
+Penang,23-Oct-20,731
+Penang,24-Oct-20,754
+Penang,25-Oct-20,851
+Penang,26-Oct-20,912
+Penang,27-Oct-20,925
+Penang,28-Oct-20,944
+Penang,29-Oct-20,957
+Penang,30-Oct-20,992
+Penang,31-Oct-20,994
+Penang,1-Nov-20,1017
+Penang,2-Nov-20,1038
+Penang,3-Nov-20,1073
+Penang,4-Nov-20,1096
+Penang,5-Nov-20,1132
+Penang,6-Nov-20,1324
+Penang,7-Nov-20,1342
+Penang,8-Nov-20,1360
+Penang,9-Nov-20,1394
+Penang,10-Nov-20,1421
+Penang,11-Nov-20,1447
+Penang,12-Nov-20,1510
+Penang,13-Nov-20,1552
+Penang,14-Nov-20,1586
+Penang,15-Nov-20,1628
+Penang,16-Nov-20,1654
+Penang,17-Nov-20,1687
+Penang,18-Nov-20,1703
+Penang,19-Nov-20,1711
+Penang,20-Nov-20,1736
+Penang,21-Nov-20,1753
+Penang,22-Nov-20,1768
+Penang,23-Nov-20,1780
+Penang,24-Nov-20,1795
+Penang,25-Nov-20,1809
+Penang,26-Nov-20,1826
+Penang,27-Nov-20,1890
+Penang,28-Nov-20,1982
+Penang,29-Nov-20,2028
+Penang,30-Nov-20,2088
+Perak,25-Jan-20,0
+Perak,28-Jan-20,0
+Perak,30-Jan-20,0
+Perak,3-Feb-20,0
+Perak,5-Feb-20,0
+Perak,6-Feb-20,0
+Perak,7-Feb-20,0
+Perak,8-Feb-20,0
+Perak,9-Feb-20,0
+Perak,13-Feb-20,0
+Perak,14-Feb-20,0
+Perak,15-Feb-20,0
+Perak,27-Feb-20,0
+Perak,28-Feb-20,0
+Perak,1-Mar-20,0
+Perak,3-Mar-20,0
+Perak,13-Mar-20,2
+Perak,14-Mar-20,2
+Perak,16-Mar-20,18
+Perak,17-Mar-20,23
+Perak,18-Mar-20,28
+Perak,19-Mar-20,35
+Perak,20-Mar-20,45
+Perak,21-Mar-20,55
+Perak,22-Mar-20,66
+Perak,23-Mar-20,81
+Perak,24-Mar-20,98
+Perak,25-Mar-20,128
+Perak,26-Mar-20,151
+Perak,27-Mar-20,159
+Perak,28-Mar-20,165
+Perak,29-Mar-20,176
+Perak,30-Mar-20,184
+Perak,31-Mar-20,189
+Perak,1-Apr-20,194
+Perak,2-Apr-20,200
+Perak,3-Apr-20,205
+Perak,4-Apr-20,207
+Perak,5-Apr-20,213
+Perak,6-Apr-20,219
+Perak,7-Apr-20,233
+Perak,8-Apr-20,237
+Perak,9-Apr-20,241
+Perak,10-Apr-20,242
+Perak,11-Apr-20,243
+Perak,12-Apr-20,244
+Perak,13-Apr-20,247
+Perak,14-Apr-20,250
+Perak,15-Apr-20,250
+Perak,16-Apr-20,251
+Perak,17-Apr-20,252
+Perak,18-Apr-20,252
+Perak,19-Apr-20,252
+Perak,20-Apr-20,252
+Perak,21-Apr-20,252
+Perak,22-Apr-20,252
+Perak,23-Apr-20,252
+Perak,24-Apr-20,252
+Perak,25-Apr-20,252
+Perak,26-Apr-20,252
+Perak,27-Apr-20,253
+Perak,28-Apr-20,253
+Perak,29-Apr-20,253
+Perak,30-Apr-20,253
+Perak,1-May-20,253
+Perak,2-May-20,253
+Perak,3-May-20,253
+Perak,4-May-20,253
+Perak,5-May-20,253
+Perak,6-May-20,253
+Perak,7-May-20,253
+Perak,8-May-20,253
+Perak,9-May-20,253
+Perak,10-May-20,255
+Perak,11-May-20,255
+Perak,12-May-20,255
+Perak,13-May-20,255
+Perak,14-May-20,255
+Perak,15-May-20,255
+Perak,16-May-20,255
+Perak,17-May-20,255
+Perak,18-May-20,255
+Perak,19-May-20,255
+Perak,20-May-20,255
+Perak,21-May-20,255
+Perak,22-May-20,255
+Perak,23-May-20,255
+Perak,24-May-20,255
+Perak,25-May-20,255
+Perak,26-May-20,255
+Perak,27-May-20,255
+Perak,28-May-20,255
+Perak,29-May-20,255
+Perak,30-May-20,256
+Perak,31-May-20,256
+Perak,1-Jun-20,256
+Perak,2-Jun-20,256
+Perak,3-Jun-20,256
+Perak,4-Jun-20,256
+Perak,5-Jun-20,256
+Perak,6-Jun-20,256
+Perak,7-Jun-20,256
+Perak,8-Jun-20,256
+Perak,9-Jun-20,256
+Perak,10-Jun-20,256
+Perak,11-Jun-20,256
+Perak,12-Jun-20,256
+Perak,13-Jun-20,257
+Perak,14-Jun-20,257
+Perak,15-Jun-20,257
+Perak,16-Jun-20,257
+Perak,17-Jun-20,257
+Perak,18-Jun-20,258
+Perak,19-Jun-20,258
+Perak,20-Jun-20,258
+Perak,21-Jun-20,258
+Perak,22-Jun-20,258
+Perak,23-Jun-20,258
+Perak,24-Jun-20,258
+Perak,25-Jun-20,258
+Perak,26-Jun-20,258
+Perak,27-Jun-20,258
+Perak,28-Jun-20,258
+Perak,29-Jun-20,258
+Perak,30-Jun-20,258
+Perak,1-Jul-20,258
+Perak,2-Jul-20,258
+Perak,3-Jul-20,258
+Perak,4-Jul-20,258
+Perak,5-Jul-20,258
+Perak,6-Jul-20,258
+Perak,7-Jul-20,258
+Perak,8-Jul-20,258
+Perak,9-Jul-20,258
+Perak,10-Jul-20,258
+Perak,11-Jul-20,258
+Perak,12-Jul-20,258
+Perak,13-Jul-20,258
+Perak,14-Jul-20,258
+Perak,15-Jul-20,258
+Perak,16-Jul-20,258
+Perak,17-Jul-20,258
+Perak,18-Jul-20,258
+Perak,19-Jul-20,260
+Perak,20-Jul-20,260
+Perak,21-Jul-20,260
+Perak,22-Jul-20,261
+Perak,23-Jul-20,261
+Perak,24-Jul-20,262
+Perak,25-Jul-20,262
+Perak,26-Jul-20,262
+Perak,27-Jul-20,262
+Perak,28-Jul-20,262
+Perak,29-Jul-20,262
+Perak,30-Jul-20,262
+Perak,31-Jul-20,262
+Perak,1-Aug-20,264
+Perak,2-Aug-20,264
+Perak,3-Aug-20,264
+Perak,4-Aug-20,264
+Perak,5-Aug-20,264
+Perak,6-Aug-20,264
+Perak,7-Aug-20,266
+Perak,8-Aug-20,266
+Perak,9-Aug-20,266
+Perak,10-Aug-20,269
+Perak,11-Aug-20,269
+Perak,12-Aug-20,269
+Perak,13-Aug-20,269
+Perak,14-Aug-20,269
+Perak,15-Aug-20,269
+Perak,16-Aug-20,269
+Perak,17-Aug-20,269
+Perak,18-Aug-20,269
+Perak,19-Aug-20,269
+Perak,20-Aug-20,269
+Perak,21-Aug-20,269
+Perak,22-Aug-20,269
+Perak,23-Aug-20,269
+Perak,24-Aug-20,269
+Perak,25-Aug-20,269
+Perak,26-Aug-20,269
+Perak,27-Aug-20,269
+Perak,28-Aug-20,269
+Perak,29-Aug-20,269
+Perak,30-Aug-20,269
+Perak,31-Aug-20,269
+Perak,1-Sep-20,269
+Perak,2-Sep-20,269
+Perak,3-Sep-20,269
+Perak,4-Sep-20,269
+Perak,5-Sep-20,269
+Perak,6-Sep-20,269
+Perak,7-Sep-20,269
+Perak,8-Sep-20,269
+Perak,9-Sep-20,269
+Perak,10-Sep-20,269
+Perak,11-Sep-20,269
+Perak,12-Sep-20,269
+Perak,13-Sep-20,269
+Perak,14-Sep-20,269
+Perak,15-Sep-20,269
+Perak,16-Sep-20,269
+Perak,17-Sep-20,269
+Perak,18-Sep-20,269
+Perak,19-Sep-20,269
+Perak,20-Sep-20,269
+Perak,21-Sep-20,269
+Perak,22-Sep-20,269
+Perak,23-Sep-20,269
+Perak,24-Sep-20,269
+Perak,25-Sep-20,269
+Perak,26-Sep-20,269
+Perak,27-Sep-20,269
+Perak,28-Sep-20,269
+Perak,29-Sep-20,270
+Perak,30-Sep-20,271
+Perak,1-Oct-20,271
+Perak,2-Oct-20,274
+Perak,3-Oct-20,274
+Perak,4-Oct-20,276
+Perak,5-Oct-20,278
+Perak,6-Oct-20,286
+Perak,7-Oct-20,290
+Perak,8-Oct-20,295
+Perak,9-Oct-20,296
+Perak,10-Oct-20,298
+Perak,11-Oct-20,299
+Perak,12-Oct-20,303
+Perak,13-Oct-20,319
+Perak,14-Oct-20,322
+Perak,15-Oct-20,374
+Perak,16-Oct-20,383
+Perak,17-Oct-20,387
+Perak,18-Oct-20,397
+Perak,19-Oct-20,415
+Perak,20-Oct-20,424
+Perak,21-Oct-20,431
+Perak,22-Oct-20,445
+Perak,23-Oct-20,449
+Perak,24-Oct-20,459
+Perak,25-Oct-20,465
+Perak,26-Oct-20,473
+Perak,27-Oct-20,484
+Perak,28-Oct-20,490
+Perak,29-Oct-20,495
+Perak,30-Oct-20,505
+Perak,31-Oct-20,511
+Perak,1-Nov-20,516
+Perak,2-Nov-20,519
+Perak,3-Nov-20,522
+Perak,4-Nov-20,528
+Perak,5-Nov-20,534
+Perak,6-Nov-20,552
+Perak,7-Nov-20,589
+Perak,8-Nov-20,596
+Perak,9-Nov-20,647
+Perak,10-Nov-20,659
+Perak,11-Nov-20,673
+Perak,12-Nov-20,682
+Perak,13-Nov-20,695
+Perak,14-Nov-20,748
+Perak,15-Nov-20,769
+Perak,16-Nov-20,885
+Perak,17-Nov-20,932
+Perak,18-Nov-20,948
+Perak,19-Nov-20,996
+Perak,20-Nov-20,1020
+Perak,21-Nov-20,1049
+Perak,22-Nov-20,1104
+Perak,23-Nov-20,1185
+Perak,24-Nov-20,1297
+Perak,25-Nov-20,1377
+Perak,26-Nov-20,1456
+Perak,27-Nov-20,1498
+Perak,28-Nov-20,1665
+Perak,29-Nov-20,1742
+Perak,30-Nov-20,1785
+Perlis,25-Jan-20,0
+Perlis,28-Jan-20,0
+Perlis,30-Jan-20,0
+Perlis,3-Feb-20,0
+Perlis,5-Feb-20,0
+Perlis,6-Feb-20,0
+Perlis,7-Feb-20,0
+Perlis,8-Feb-20,0
+Perlis,9-Feb-20,0
+Perlis,13-Feb-20,0
+Perlis,14-Feb-20,0
+Perlis,15-Feb-20,0
+Perlis,27-Feb-20,0
+Perlis,28-Feb-20,0
+Perlis,1-Mar-20,0
+Perlis,3-Mar-20,0
+Perlis,13-Mar-20,1
+Perlis,14-Mar-20,2
+Perlis,16-Mar-20,8
+Perlis,17-Mar-20,8
+Perlis,18-Mar-20,8
+Perlis,19-Mar-20,9
+Perlis,20-Mar-20,9
+Perlis,21-Mar-20,9
+Perlis,22-Mar-20,9
+Perlis,23-Mar-20,9
+Perlis,24-Mar-20,9
+Perlis,25-Mar-20,10
+Perlis,26-Mar-20,10
+Perlis,27-Mar-20,10
+Perlis,28-Mar-20,10
+Perlis,29-Mar-20,10
+Perlis,30-Mar-20,11
+Perlis,31-Mar-20,12
+Perlis,1-Apr-20,12
+Perlis,2-Apr-20,12
+Perlis,3-Apr-20,12
+Perlis,4-Apr-20,12
+Perlis,5-Apr-20,13
+Perlis,6-Apr-20,13
+Perlis,7-Apr-20,17
+Perlis,8-Apr-20,17
+Perlis,9-Apr-20,17
+Perlis,10-Apr-20,17
+Perlis,11-Apr-20,17
+Perlis,12-Apr-20,17
+Perlis,13-Apr-20,17
+Perlis,14-Apr-20,18
+Perlis,15-Apr-20,18
+Perlis,16-Apr-20,18
+Perlis,17-Apr-20,18
+Perlis,18-Apr-20,18
+Perlis,19-Apr-20,18
+Perlis,20-Apr-20,18
+Perlis,21-Apr-20,18
+Perlis,22-Apr-20,18
+Perlis,23-Apr-20,18
+Perlis,24-Apr-20,18
+Perlis,25-Apr-20,18
+Perlis,26-Apr-20,18
+Perlis,27-Apr-20,18
+Perlis,28-Apr-20,18
+Perlis,29-Apr-20,18
+Perlis,30-Apr-20,18
+Perlis,1-May-20,18
+Perlis,2-May-20,18
+Perlis,3-May-20,18
+Perlis,4-May-20,18
+Perlis,5-May-20,18
+Perlis,6-May-20,18
+Perlis,7-May-20,18
+Perlis,8-May-20,18
+Perlis,9-May-20,18
+Perlis,10-May-20,18
+Perlis,11-May-20,18
+Perlis,12-May-20,18
+Perlis,13-May-20,18
+Perlis,14-May-20,18
+Perlis,15-May-20,18
+Perlis,16-May-20,18
+Perlis,17-May-20,18
+Perlis,18-May-20,18
+Perlis,19-May-20,18
+Perlis,20-May-20,18
+Perlis,21-May-20,18
+Perlis,22-May-20,18
+Perlis,23-May-20,18
+Perlis,24-May-20,18
+Perlis,25-May-20,18
+Perlis,26-May-20,18
+Perlis,27-May-20,18
+Perlis,28-May-20,18
+Perlis,29-May-20,18
+Perlis,30-May-20,18
+Perlis,31-May-20,18
+Perlis,1-Jun-20,18
+Perlis,2-Jun-20,18
+Perlis,3-Jun-20,18
+Perlis,4-Jun-20,18
+Perlis,5-Jun-20,18
+Perlis,6-Jun-20,18
+Perlis,7-Jun-20,18
+Perlis,8-Jun-20,18
+Perlis,9-Jun-20,18
+Perlis,10-Jun-20,18
+Perlis,11-Jun-20,18
+Perlis,12-Jun-20,18
+Perlis,13-Jun-20,18
+Perlis,14-Jun-20,18
+Perlis,15-Jun-20,18
+Perlis,16-Jun-20,18
+Perlis,17-Jun-20,18
+Perlis,18-Jun-20,18
+Perlis,19-Jun-20,18
+Perlis,20-Jun-20,18
+Perlis,21-Jun-20,18
+Perlis,22-Jun-20,18
+Perlis,23-Jun-20,18
+Perlis,24-Jun-20,18
+Perlis,25-Jun-20,18
+Perlis,26-Jun-20,18
+Perlis,27-Jun-20,18
+Perlis,28-Jun-20,18
+Perlis,29-Jun-20,18
+Perlis,30-Jun-20,18
+Perlis,1-Jul-20,18
+Perlis,2-Jul-20,18
+Perlis,3-Jul-20,18
+Perlis,4-Jul-20,18
+Perlis,5-Jul-20,18
+Perlis,6-Jul-20,18
+Perlis,7-Jul-20,18
+Perlis,8-Jul-20,18
+Perlis,9-Jul-20,18
+Perlis,10-Jul-20,18
+Perlis,11-Jul-20,18
+Perlis,12-Jul-20,18
+Perlis,13-Jul-20,18
+Perlis,14-Jul-20,18
+Perlis,15-Jul-20,18
+Perlis,16-Jul-20,18
+Perlis,17-Jul-20,18
+Perlis,18-Jul-20,18
+Perlis,19-Jul-20,18
+Perlis,20-Jul-20,18
+Perlis,21-Jul-20,18
+Perlis,22-Jul-20,18
+Perlis,23-Jul-20,18
+Perlis,24-Jul-20,18
+Perlis,25-Jul-20,18
+Perlis,26-Jul-20,18
+Perlis,27-Jul-20,18
+Perlis,28-Jul-20,18
+Perlis,29-Jul-20,19
+Perlis,30-Jul-20,19
+Perlis,31-Jul-20,19
+Perlis,1-Aug-20,19
+Perlis,2-Aug-20,19
+Perlis,3-Aug-20,19
+Perlis,4-Aug-20,20
+Perlis,5-Aug-20,20
+Perlis,6-Aug-20,20
+Perlis,7-Aug-20,30
+Perlis,8-Aug-20,30
+Perlis,9-Aug-20,30
+Perlis,10-Aug-20,30
+Perlis,11-Aug-20,30
+Perlis,12-Aug-20,30
+Perlis,13-Aug-20,30
+Perlis,14-Aug-20,30
+Perlis,15-Aug-20,31
+Perlis,16-Aug-20,31
+Perlis,17-Aug-20,31
+Perlis,18-Aug-20,31
+Perlis,19-Aug-20,31
+Perlis,20-Aug-20,31
+Perlis,21-Aug-20,31
+Perlis,22-Aug-20,31
+Perlis,23-Aug-20,31
+Perlis,24-Aug-20,31
+Perlis,25-Aug-20,32
+Perlis,26-Aug-20,32
+Perlis,27-Aug-20,32
+Perlis,28-Aug-20,32
+Perlis,29-Aug-20,32
+Perlis,30-Aug-20,32
+Perlis,31-Aug-20,32
+Perlis,1-Sep-20,32
+Perlis,2-Sep-20,32
+Perlis,3-Sep-20,32
+Perlis,4-Sep-20,32
+Perlis,5-Sep-20,32
+Perlis,6-Sep-20,32
+Perlis,7-Sep-20,32
+Perlis,8-Sep-20,33
+Perlis,9-Sep-20,33
+Perlis,10-Sep-20,33
+Perlis,11-Sep-20,33
+Perlis,12-Sep-20,33
+Perlis,13-Sep-20,33
+Perlis,14-Sep-20,33
+Perlis,15-Sep-20,33
+Perlis,16-Sep-20,33
+Perlis,17-Sep-20,33
+Perlis,18-Sep-20,33
+Perlis,19-Sep-20,33
+Perlis,20-Sep-20,33
+Perlis,21-Sep-20,33
+Perlis,22-Sep-20,33
+Perlis,23-Sep-20,33
+Perlis,24-Sep-20,33
+Perlis,25-Sep-20,33
+Perlis,26-Sep-20,33
+Perlis,27-Sep-20,33
+Perlis,28-Sep-20,33
+Perlis,29-Sep-20,34
+Perlis,30-Sep-20,36
+Perlis,1-Oct-20,38
+Perlis,2-Oct-20,38
+Perlis,3-Oct-20,38
+Perlis,4-Oct-20,38
+Perlis,5-Oct-20,38
+Perlis,6-Oct-20,38
+Perlis,7-Oct-20,38
+Perlis,8-Oct-20,38
+Perlis,9-Oct-20,38
+Perlis,10-Oct-20,38
+Perlis,11-Oct-20,38
+Perlis,12-Oct-20,38
+Perlis,13-Oct-20,38
+Perlis,14-Oct-20,38
+Perlis,15-Oct-20,38
+Perlis,16-Oct-20,38
+Perlis,17-Oct-20,38
+Perlis,18-Oct-20,38
+Perlis,19-Oct-20,38
+Perlis,20-Oct-20,38
+Perlis,21-Oct-20,38
+Perlis,22-Oct-20,38
+Perlis,23-Oct-20,38
+Perlis,24-Oct-20,38
+Perlis,25-Oct-20,38
+Perlis,26-Oct-20,38
+Perlis,27-Oct-20,38
+Perlis,28-Oct-20,38
+Perlis,29-Oct-20,38
+Perlis,30-Oct-20,38
+Perlis,31-Oct-20,38
+Perlis,1-Nov-20,38
+Perlis,2-Nov-20,38
+Perlis,3-Nov-20,38
+Perlis,4-Nov-20,38
+Perlis,5-Nov-20,38
+Perlis,6-Nov-20,38
+Perlis,7-Nov-20,38
+Perlis,8-Nov-20,38
+Perlis,9-Nov-20,38
+Perlis,10-Nov-20,38
+Perlis,11-Nov-20,40
+Perlis,12-Nov-20,40
+Perlis,13-Nov-20,40
+Perlis,14-Nov-20,40
+Perlis,15-Nov-20,41
+Perlis,16-Nov-20,41
+Perlis,17-Nov-20,41
+Perlis,18-Nov-20,41
+Perlis,19-Nov-20,41
+Perlis,20-Nov-20,41
+Perlis,21-Nov-20,41
+Perlis,22-Nov-20,42
+Perlis,23-Nov-20,43
+Perlis,24-Nov-20,43
+Perlis,25-Nov-20,43
+Perlis,26-Nov-20,43
+Perlis,27-Nov-20,43
+Perlis,28-Nov-20,43
+Perlis,29-Nov-20,43
+Perlis,30-Nov-20,43
+Sabah,25-Jan-20,0
+Sabah,28-Jan-20,0
+Sabah,30-Jan-20,0
+Sabah,3-Feb-20,0
+Sabah,5-Feb-20,0
+Sabah,6-Feb-20,0
+Sabah,7-Feb-20,0
+Sabah,8-Feb-20,0
+Sabah,9-Feb-20,0
+Sabah,13-Feb-20,0
+Sabah,14-Feb-20,0
+Sabah,15-Feb-20,0
+Sabah,27-Feb-20,0
+Sabah,28-Feb-20,0
+Sabah,1-Mar-20,0
+Sabah,3-Mar-20,0
+Sabah,13-Mar-20,15
+Sabah,14-Mar-20,26
+Sabah,16-Mar-20,57
+Sabah,17-Mar-20,82
+Sabah,18-Mar-20,103
+Sabah,19-Mar-20,112
+Sabah,20-Mar-20,119
+Sabah,21-Mar-20,136
+Sabah,22-Mar-20,158
+Sabah,23-Mar-20,169
+Sabah,24-Mar-20,170
+Sabah,25-Mar-20,170
+Sabah,26-Mar-20,172
+Sabah,27-Mar-20,182
+Sabah,28-Mar-20,197
+Sabah,29-Mar-20,197
+Sabah,30-Mar-20,201
+Sabah,31-Mar-20,206
+Sabah,1-Apr-20,209
+Sabah,2-Apr-20,210
+Sabah,3-Apr-20,215
+Sabah,4-Apr-20,225
+Sabah,5-Apr-20,238
+Sabah,6-Apr-20,240
+Sabah,7-Apr-20,241
+Sabah,8-Apr-20,248
+Sabah,9-Apr-20,248
+Sabah,10-Apr-20,250
+Sabah,11-Apr-20,260
+Sabah,12-Apr-20,266
+Sabah,13-Apr-20,280
+Sabah,14-Apr-20,285
+Sabah,15-Apr-20,285
+Sabah,16-Apr-20,288
+Sabah,17-Apr-20,293
+Sabah,18-Apr-20,303
+Sabah,19-Apr-20,306
+Sabah,20-Apr-20,308
+Sabah,21-Apr-20,308
+Sabah,22-Apr-20,308
+Sabah,23-Apr-20,309
+Sabah,24-Apr-20,311
+Sabah,25-Apr-20,311
+Sabah,26-Apr-20,311
+Sabah,27-Apr-20,312
+Sabah,28-Apr-20,313
+Sabah,29-Apr-20,315
+Sabah,30-Apr-20,315
+Sabah,1-May-20,315
+Sabah,2-May-20,315
+Sabah,3-May-20,316
+Sabah,4-May-20,316
+Sabah,5-May-20,316
+Sabah,6-May-20,316
+Sabah,7-May-20,317
+Sabah,8-May-20,317
+Sabah,9-May-20,317
+Sabah,10-May-20,317
+Sabah,11-May-20,327
+Sabah,12-May-20,328
+Sabah,13-May-20,330
+Sabah,14-May-20,330
+Sabah,15-May-20,330
+Sabah,16-May-20,331
+Sabah,17-May-20,331
+Sabah,18-May-20,331
+Sabah,19-May-20,337
+Sabah,20-May-20,338
+Sabah,21-May-20,338
+Sabah,22-May-20,340
+Sabah,23-May-20,341
+Sabah,24-May-20,343
+Sabah,25-May-20,343
+Sabah,26-May-20,343
+Sabah,27-May-20,344
+Sabah,28-May-20,344
+Sabah,29-May-20,346
+Sabah,30-May-20,346
+Sabah,31-May-20,346
+Sabah,1-Jun-20,347
+Sabah,2-Jun-20,348
+Sabah,3-Jun-20,348
+Sabah,4-Jun-20,348
+Sabah,5-Jun-20,351
+Sabah,6-Jun-20,351
+Sabah,7-Jun-20,353
+Sabah,8-Jun-20,355
+Sabah,9-Jun-20,355
+Sabah,10-Jun-20,355
+Sabah,11-Jun-20,355
+Sabah,12-Jun-20,356
+Sabah,13-Jun-20,358
+Sabah,14-Jun-20,358
+Sabah,15-Jun-20,359
+Sabah,16-Jun-20,359
+Sabah,17-Jun-20,361
+Sabah,18-Jun-20,362
+Sabah,19-Jun-20,362
+Sabah,20-Jun-20,363
+Sabah,21-Jun-20,364
+Sabah,22-Jun-20,364
+Sabah,23-Jun-20,366
+Sabah,24-Jun-20,366
+Sabah,25-Jun-20,366
+Sabah,26-Jun-20,366
+Sabah,27-Jun-20,368
+Sabah,28-Jun-20,370
+Sabah,29-Jun-20,371
+Sabah,30-Jun-20,372
+Sabah,1-Jul-20,372
+Sabah,2-Jul-20,373
+Sabah,3-Jul-20,375
+Sabah,4-Jul-20,376
+Sabah,5-Jul-20,378
+Sabah,6-Jul-20,378
+Sabah,7-Jul-20,378
+Sabah,8-Jul-20,378
+Sabah,9-Jul-20,378
+Sabah,10-Jul-20,378
+Sabah,11-Jul-20,379
+Sabah,12-Jul-20,380
+Sabah,13-Jul-20,380
+Sabah,14-Jul-20,380
+Sabah,15-Jul-20,380
+Sabah,16-Jul-20,380
+Sabah,17-Jul-20,381
+Sabah,18-Jul-20,381
+Sabah,19-Jul-20,382
+Sabah,20-Jul-20,382
+Sabah,21-Jul-20,383
+Sabah,22-Jul-20,383
+Sabah,23-Jul-20,384
+Sabah,24-Jul-20,384
+Sabah,25-Jul-20,384
+Sabah,26-Jul-20,385
+Sabah,27-Jul-20,389
+Sabah,28-Jul-20,392
+Sabah,29-Jul-20,393
+Sabah,30-Jul-20,397
+Sabah,31-Jul-20,398
+Sabah,1-Aug-20,398
+Sabah,2-Aug-20,400
+Sabah,3-Aug-20,400
+Sabah,4-Aug-20,400
+Sabah,5-Aug-20,402
+Sabah,6-Aug-20,406
+Sabah,7-Aug-20,410
+Sabah,8-Aug-20,410
+Sabah,9-Aug-20,410
+Sabah,10-Aug-20,410
+Sabah,11-Aug-20,411
+Sabah,12-Aug-20,415
+Sabah,13-Aug-20,415
+Sabah,14-Aug-20,415
+Sabah,15-Aug-20,415
+Sabah,16-Aug-20,416
+Sabah,17-Aug-20,416
+Sabah,18-Aug-20,416
+Sabah,19-Aug-20,416
+Sabah,20-Aug-20,416
+Sabah,21-Aug-20,416
+Sabah,22-Aug-20,417
+Sabah,23-Aug-20,417
+Sabah,24-Aug-20,417
+Sabah,25-Aug-20,417
+Sabah,26-Aug-20,417
+Sabah,27-Aug-20,417
+Sabah,28-Aug-20,417
+Sabah,29-Aug-20,417
+Sabah,30-Aug-20,417
+Sabah,31-Aug-20,417
+Sabah,1-Sep-20,426
+Sabah,2-Sep-20,426
+Sabah,3-Sep-20,432
+Sabah,4-Sep-20,432
+Sabah,5-Sep-20,433
+Sabah,6-Sep-20,435
+Sabah,7-Sep-20,486
+Sabah,8-Sep-20,548
+Sabah,9-Sep-20,552
+Sabah,10-Sep-20,592
+Sabah,11-Sep-20,759
+Sabah,12-Sep-20,808
+Sabah,13-Sep-20,839
+Sabah,14-Sep-20,864
+Sabah,15-Sep-20,877
+Sabah,16-Sep-20,937
+Sabah,17-Sep-20,945
+Sabah,18-Sep-20,1036
+Sabah,19-Sep-20,1044
+Sabah,20-Sep-20,1080
+Sabah,21-Sep-20,1129
+Sabah,22-Sep-20,1189
+Sabah,23-Sep-20,1323
+Sabah,24-Sep-20,1386
+Sabah,25-Sep-20,1483
+Sabah,26-Sep-20,1547
+Sabah,27-Sep-20,1671
+Sabah,28-Sep-20,1769
+Sabah,29-Sep-20,1842
+Sabah,30-Sep-20,1877
+Sabah,1-Oct-20,1995
+Sabah,2-Oct-20,2108
+Sabah,3-Oct-20,2263
+Sabah,4-Oct-20,2389
+Sabah,5-Oct-20,2519
+Sabah,6-Oct-20,2738
+Sabah,7-Oct-20,3020
+Sabah,8-Oct-20,3291
+Sabah,9-Oct-20,3565
+Sabah,10-Oct-20,3842
+Sabah,11-Oct-20,4330
+Sabah,12-Oct-20,4621
+Sabah,13-Oct-20,5064
+Sabah,14-Oct-20,5493
+Sabah,15-Oct-20,5797
+Sabah,16-Oct-20,6286
+Sabah,17-Oct-20,6737
+Sabah,18-Oct-20,7439
+Sabah,19-Oct-20,8082
+Sabah,20-Oct-20,8755
+Sabah,21-Oct-20,9290
+Sabah,22-Oct-20,9868
+Sabah,23-Oct-20,10396
+Sabah,24-Oct-20,11285
+Sabah,25-Oct-20,11818
+Sabah,26-Oct-20,12745
+Sabah,27-Oct-20,13155
+Sabah,28-Oct-20,13701
+Sabah,29-Oct-20,14053
+Sabah,30-Oct-20,14519
+Sabah,31-Oct-20,15048
+Sabah,1-Nov-20,15692
+Sabah,2-Nov-20,16195
+Sabah,3-Nov-20,16873
+Sabah,4-Nov-20,17519
+Sabah,5-Nov-20,18083
+Sabah,6-Nov-20,19282
+Sabah,7-Nov-20,19898
+Sabah,8-Nov-20,20422
+Sabah,9-Nov-20,20792
+Sabah,10-Nov-20,21189
+Sabah,11-Nov-20,21448
+Sabah,12-Nov-20,21767
+Sabah,13-Nov-20,22323
+Sabah,14-Nov-20,22714
+Sabah,15-Nov-20,23095
+Sabah,16-Nov-20,23383
+Sabah,17-Nov-20,23882
+Sabah,18-Nov-20,24269
+Sabah,19-Nov-20,24929
+Sabah,20-Nov-20,25441
+Sabah,21-Nov-20,25787
+Sabah,22-Nov-20,26098
+Sabah,23-Nov-20,26387
+Sabah,24-Nov-20,26619
+Sabah,25-Nov-20,26912
+Sabah,26-Nov-20,27238
+Sabah,27-Nov-20,27679
+Sabah,28-Nov-20,28155
+Sabah,29-Nov-20,28445
+Sabah,30-Nov-20,28771
+Sarawak,25-Jan-20,0
+Sarawak,28-Jan-20,0
+Sarawak,30-Jan-20,0
+Sarawak,3-Feb-20,0
+Sarawak,5-Feb-20,0
+Sarawak,6-Feb-20,0
+Sarawak,7-Feb-20,0
+Sarawak,8-Feb-20,0
+Sarawak,9-Feb-20,0
+Sarawak,13-Feb-20,0
+Sarawak,14-Feb-20,0
+Sarawak,15-Feb-20,0
+Sarawak,27-Feb-20,0
+Sarawak,28-Feb-20,0
+Sarawak,1-Mar-20,0
+Sarawak,3-Mar-20,0
+Sarawak,13-Mar-20,0
+Sarawak,14-Mar-20,6
+Sarawak,16-Mar-20,21
+Sarawak,17-Mar-20,29
+Sarawak,18-Mar-20,49
+Sarawak,19-Mar-20,51
+Sarawak,20-Mar-20,58
+Sarawak,21-Mar-20,68
+Sarawak,22-Mar-20,76
+Sarawak,23-Mar-20,78
+Sarawak,24-Mar-20,83
+Sarawak,25-Mar-20,85
+Sarawak,26-Mar-20,95
+Sarawak,27-Mar-20,110
+Sarawak,28-Mar-20,118
+Sarawak,29-Mar-20,129
+Sarawak,30-Mar-20,135
+Sarawak,31-Mar-20,156
+Sarawak,1-Apr-20,188
+Sarawak,2-Apr-20,211
+Sarawak,3-Apr-20,239
+Sarawak,4-Apr-20,246
+Sarawak,5-Apr-20,261
+Sarawak,6-Apr-20,273
+Sarawak,7-Apr-20,288
+Sarawak,8-Apr-20,306
+Sarawak,9-Apr-20,312
+Sarawak,10-Apr-20,327
+Sarawak,11-Apr-20,334
+Sarawak,12-Apr-20,342
+Sarawak,13-Apr-20,348
+Sarawak,14-Apr-20,363
+Sarawak,15-Apr-20,371
+Sarawak,16-Apr-20,387
+Sarawak,17-Apr-20,397
+Sarawak,18-Apr-20,403
+Sarawak,19-Apr-20,408
+Sarawak,20-Apr-20,414
+Sarawak,21-Apr-20,436
+Sarawak,22-Apr-20,455
+Sarawak,23-Apr-20,459
+Sarawak,24-Apr-20,468
+Sarawak,25-Apr-20,478
+Sarawak,26-Apr-20,485
+Sarawak,27-Apr-20,488
+Sarawak,28-Apr-20,496
+Sarawak,29-Apr-20,502
+Sarawak,30-Apr-20,507
+Sarawak,1-May-20,509
+Sarawak,2-May-20,518
+Sarawak,3-May-20,523
+Sarawak,4-May-20,523
+Sarawak,5-May-20,525
+Sarawak,6-May-20,536
+Sarawak,7-May-20,537
+Sarawak,8-May-20,538
+Sarawak,9-May-20,542
+Sarawak,10-May-20,543
+Sarawak,11-May-20,543
+Sarawak,12-May-20,543
+Sarawak,13-May-20,544
+Sarawak,14-May-20,544
+Sarawak,15-May-20,544
+Sarawak,16-May-20,544
+Sarawak,17-May-20,544
+Sarawak,18-May-20,544
+Sarawak,19-May-20,544
+Sarawak,20-May-20,544
+Sarawak,21-May-20,544
+Sarawak,22-May-20,545
+Sarawak,23-May-20,545
+Sarawak,24-May-20,545
+Sarawak,25-May-20,549
+Sarawak,26-May-20,549
+Sarawak,27-May-20,552
+Sarawak,28-May-20,552
+Sarawak,29-May-20,552
+Sarawak,30-May-20,552
+Sarawak,31-May-20,552
+Sarawak,1-Jun-20,552
+Sarawak,2-Jun-20,552
+Sarawak,3-Jun-20,552
+Sarawak,4-Jun-20,552
+Sarawak,5-Jun-20,553
+Sarawak,6-Jun-20,555
+Sarawak,7-Jun-20,555
+Sarawak,8-Jun-20,555
+Sarawak,9-Jun-20,555
+Sarawak,10-Jun-20,556
+Sarawak,11-Jun-20,556
+Sarawak,12-Jun-20,556
+Sarawak,13-Jun-20,556
+Sarawak,14-Jun-20,557
+Sarawak,15-Jun-20,557
+Sarawak,16-Jun-20,560
+Sarawak,17-Jun-20,561
+Sarawak,18-Jun-20,565
+Sarawak,19-Jun-20,566
+Sarawak,20-Jun-20,566
+Sarawak,21-Jun-20,569
+Sarawak,22-Jun-20,569
+Sarawak,23-Jun-20,569
+Sarawak,24-Jun-20,570
+Sarawak,25-Jun-20,570
+Sarawak,26-Jun-20,570
+Sarawak,27-Jun-20,570
+Sarawak,28-Jun-20,571
+Sarawak,29-Jun-20,571
+Sarawak,30-Jun-20,571
+Sarawak,1-Jul-20,571
+Sarawak,2-Jul-20,571
+Sarawak,3-Jul-20,571
+Sarawak,4-Jul-20,571
+Sarawak,5-Jul-20,571
+Sarawak,6-Jul-20,572
+Sarawak,7-Jul-20,572
+Sarawak,8-Jul-20,573
+Sarawak,9-Jul-20,573
+Sarawak,10-Jul-20,575
+Sarawak,11-Jul-20,577
+Sarawak,12-Jul-20,579
+Sarawak,13-Jul-20,580
+Sarawak,14-Jul-20,580
+Sarawak,15-Jul-20,583
+Sarawak,16-Jul-20,584
+Sarawak,17-Jul-20,594
+Sarawak,18-Jul-20,601
+Sarawak,19-Jul-20,607
+Sarawak,20-Jul-20,608
+Sarawak,21-Jul-20,619
+Sarawak,22-Jul-20,628
+Sarawak,23-Jul-20,632
+Sarawak,24-Jul-20,641
+Sarawak,25-Jul-20,649
+Sarawak,26-Jul-20,650
+Sarawak,27-Jul-20,650
+Sarawak,28-Jul-20,675
+Sarawak,29-Jul-20,677
+Sarawak,30-Jul-20,677
+Sarawak,31-Jul-20,678
+Sarawak,1-Aug-20,678
+Sarawak,2-Aug-20,678
+Sarawak,3-Aug-20,678
+Sarawak,4-Aug-20,678
+Sarawak,5-Aug-20,678
+Sarawak,6-Aug-20,678
+Sarawak,7-Aug-20,679
+Sarawak,8-Aug-20,680
+Sarawak,9-Aug-20,681
+Sarawak,10-Aug-20,681
+Sarawak,11-Aug-20,681
+Sarawak,12-Aug-20,681
+Sarawak,13-Aug-20,681
+Sarawak,14-Aug-20,682
+Sarawak,15-Aug-20,682
+Sarawak,16-Aug-20,682
+Sarawak,17-Aug-20,682
+Sarawak,18-Aug-20,682
+Sarawak,19-Aug-20,682
+Sarawak,20-Aug-20,686
+Sarawak,21-Aug-20,687
+Sarawak,22-Aug-20,688
+Sarawak,23-Aug-20,691
+Sarawak,24-Aug-20,696
+Sarawak,25-Aug-20,696
+Sarawak,26-Aug-20,696
+Sarawak,27-Aug-20,696
+Sarawak,28-Aug-20,697
+Sarawak,29-Aug-20,698
+Sarawak,30-Aug-20,699
+Sarawak,31-Aug-20,699
+Sarawak,1-Sep-20,699
+Sarawak,2-Sep-20,699
+Sarawak,3-Sep-20,699
+Sarawak,4-Sep-20,699
+Sarawak,5-Sep-20,699
+Sarawak,6-Sep-20,699
+Sarawak,7-Sep-20,699
+Sarawak,8-Sep-20,699
+Sarawak,9-Sep-20,700
+Sarawak,10-Sep-20,700
+Sarawak,11-Sep-20,700
+Sarawak,12-Sep-20,700
+Sarawak,13-Sep-20,700
+Sarawak,14-Sep-20,700
+Sarawak,15-Sep-20,700
+Sarawak,16-Sep-20,700
+Sarawak,17-Sep-20,701
+Sarawak,18-Sep-20,701
+Sarawak,19-Sep-20,701
+Sarawak,20-Sep-20,701
+Sarawak,21-Sep-20,701
+Sarawak,22-Sep-20,703
+Sarawak,23-Sep-20,703
+Sarawak,24-Sep-20,703
+Sarawak,25-Sep-20,703
+Sarawak,26-Sep-20,704
+Sarawak,27-Sep-20,706
+Sarawak,28-Sep-20,706
+Sarawak,29-Sep-20,709
+Sarawak,30-Sep-20,713
+Sarawak,1-Oct-20,713
+Sarawak,2-Oct-20,713
+Sarawak,3-Oct-20,716
+Sarawak,4-Oct-20,717
+Sarawak,5-Oct-20,718
+Sarawak,6-Oct-20,721
+Sarawak,7-Oct-20,724
+Sarawak,8-Oct-20,732
+Sarawak,9-Oct-20,742
+Sarawak,10-Oct-20,751
+Sarawak,11-Oct-20,751
+Sarawak,12-Oct-20,752
+Sarawak,13-Oct-20,752
+Sarawak,14-Oct-20,755
+Sarawak,15-Oct-20,759
+Sarawak,16-Oct-20,759
+Sarawak,17-Oct-20,763
+Sarawak,18-Oct-20,768
+Sarawak,19-Oct-20,768
+Sarawak,20-Oct-20,769
+Sarawak,21-Oct-20,769
+Sarawak,22-Oct-20,770
+Sarawak,23-Oct-20,772
+Sarawak,24-Oct-20,780
+Sarawak,25-Oct-20,796
+Sarawak,26-Oct-20,803
+Sarawak,27-Oct-20,819
+Sarawak,28-Oct-20,846
+Sarawak,29-Oct-20,856
+Sarawak,30-Oct-20,872
+Sarawak,31-Oct-20,881
+Sarawak,1-Nov-20,892
+Sarawak,2-Nov-20,906
+Sarawak,3-Nov-20,927
+Sarawak,4-Nov-20,936
+Sarawak,5-Nov-20,942
+Sarawak,6-Nov-20,960
+Sarawak,7-Nov-20,985
+Sarawak,8-Nov-20,987
+Sarawak,9-Nov-20,991
+Sarawak,10-Nov-20,997
+Sarawak,11-Nov-20,1011
+Sarawak,12-Nov-20,1019
+Sarawak,13-Nov-20,1032
+Sarawak,14-Nov-20,1036
+Sarawak,15-Nov-20,1040
+Sarawak,16-Nov-20,1041
+Sarawak,17-Nov-20,1042
+Sarawak,18-Nov-20,1045
+Sarawak,19-Nov-20,1053
+Sarawak,20-Nov-20,1055
+Sarawak,21-Nov-20,1055
+Sarawak,22-Nov-20,1055
+Sarawak,23-Nov-20,1055
+Sarawak,24-Nov-20,1056
+Sarawak,25-Nov-20,1058
+Sarawak,26-Nov-20,1062
+Sarawak,27-Nov-20,1062
+Sarawak,28-Nov-20,1062
+Sarawak,29-Nov-20,1062
+Sarawak,30-Nov-20,1064
+Selangor,25-Jan-20,3
+Selangor,28-Jan-20,4
+Selangor,30-Jan-20,4
+Selangor,3-Feb-20,5
+Selangor,5-Feb-20,5
+Selangor,6-Feb-20,5
+Selangor,7-Feb-20,5
+Selangor,8-Feb-20,6
+Selangor,9-Feb-20,7
+Selangor,13-Feb-20,7
+Selangor,14-Feb-20,7
+Selangor,15-Feb-20,8
+Selangor,27-Feb-20,8
+Selangor,28-Feb-20,9
+Selangor,1-Mar-20,12
+Selangor,3-Mar-20,17
+Selangor,13-Mar-20,87
+Selangor,14-Mar-20,92
+Selangor,16-Mar-20,144
+Selangor,17-Mar-20,161
+Selangor,18-Mar-20,192
+Selangor,19-Mar-20,223
+Selangor,20-Mar-20,263
+Selangor,21-Mar-20,292
+Selangor,22-Mar-20,309
+Selangor,23-Mar-20,354
+Selangor,24-Mar-20,381
+Selangor,25-Mar-20,435
+Selangor,26-Mar-20,510
+Selangor,27-Mar-20,546
+Selangor,28-Mar-20,579
+Selangor,29-Mar-20,612
+Selangor,30-Mar-20,672
+Selangor,31-Mar-20,704
+Selangor,1-Apr-20,726
+Selangor,2-Apr-20,800
+Selangor,3-Apr-20,863
+Selangor,4-Apr-20,890
+Selangor,5-Apr-20,943
+Selangor,6-Apr-20,970
+Selangor,7-Apr-20,1020
+Selangor,8-Apr-20,1078
+Selangor,9-Apr-20,1118
+Selangor,10-Apr-20,1148
+Selangor,11-Apr-20,1183
+Selangor,12-Apr-20,1236
+Selangor,13-Apr-20,1249
+Selangor,14-Apr-20,1299
+Selangor,15-Apr-20,1316
+Selangor,16-Apr-20,1329
+Selangor,17-Apr-20,1338
+Selangor,18-Apr-20,1340
+Selangor,19-Apr-20,1343
+Selangor,20-Apr-20,1345
+Selangor,21-Apr-20,1356
+Selangor,22-Apr-20,1357
+Selangor,23-Apr-20,1369
+Selangor,24-Apr-20,1387
+Selangor,25-Apr-20,1388
+Selangor,26-Apr-20,1394
+Selangor,27-Apr-20,1398
+Selangor,28-Apr-20,1403
+Selangor,29-Apr-20,1404
+Selangor,30-Apr-20,1431
+Selangor,1-May-20,1455
+Selangor,2-May-20,1518
+Selangor,3-May-20,1529
+Selangor,4-May-20,1550
+Selangor,5-May-20,1555
+Selangor,6-May-20,1564
+Selangor,7-May-20,1580
+Selangor,8-May-20,1586
+Selangor,9-May-20,1596
+Selangor,10-May-20,1604
+Selangor,11-May-20,1607
+Selangor,12-May-20,1610
+Selangor,13-May-20,1612
+Selangor,14-May-20,1613
+Selangor,15-May-20,1627
+Selangor,16-May-20,1628
+Selangor,17-May-20,1636
+Selangor,18-May-20,1644
+Selangor,19-May-20,1650
+Selangor,20-May-20,1665
+Selangor,21-May-20,1673
+Selangor,22-May-20,1693
+Selangor,23-May-20,1730
+Selangor,24-May-20,1776
+Selangor,25-May-20,1829
+Selangor,26-May-20,1838
+Selangor,27-May-20,1843
+Selangor,28-May-20,1845
+Selangor,29-May-20,1873
+Selangor,30-May-20,1878
+Selangor,31-May-20,1909
+Selangor,1-Jun-20,1920
+Selangor,2-Jun-20,1926
+Selangor,3-Jun-20,1928
+Selangor,4-Jun-20,1930
+Selangor,5-Jun-20,1939
+Selangor,6-Jun-20,1953
+Selangor,7-Jun-20,1965
+Selangor,8-Jun-20,1968
+Selangor,9-Jun-20,1971
+Selangor,10-Jun-20,1971
+Selangor,11-Jun-20,1974
+Selangor,12-Jun-20,1987
+Selangor,13-Jun-20,1994
+Selangor,14-Jun-20,1996
+Selangor,15-Jun-20,1998
+Selangor,16-Jun-20,1999
+Selangor,17-Jun-20,2004
+Selangor,18-Jun-20,2006
+Selangor,19-Jun-20,2009
+Selangor,20-Jun-20,2021
+Selangor,21-Jun-20,2025
+Selangor,22-Jun-20,2027
+Selangor,23-Jun-20,2027
+Selangor,24-Jun-20,2032
+Selangor,25-Jun-20,2034
+Selangor,26-Jun-20,2036
+Selangor,27-Jun-20,2039
+Selangor,28-Jun-20,2044
+Selangor,29-Jun-20,2046
+Selangor,30-Jun-20,2047
+Selangor,1-Jul-20,2048
+Selangor,2-Jul-20,2048
+Selangor,3-Jul-20,2051
+Selangor,4-Jul-20,2058
+Selangor,5-Jul-20,2060
+Selangor,6-Jul-20,2062
+Selangor,7-Jul-20,2065
+Selangor,8-Jul-20,2066
+Selangor,9-Jul-20,2070
+Selangor,10-Jul-20,2076
+Selangor,11-Jul-20,2079
+Selangor,12-Jul-20,2088
+Selangor,13-Jul-20,2092
+Selangor,14-Jul-20,2093
+Selangor,15-Jul-20,2094
+Selangor,16-Jul-20,2094
+Selangor,17-Jul-20,2098
+Selangor,18-Jul-20,2099
+Selangor,19-Jul-20,2103
+Selangor,20-Jul-20,2107
+Selangor,21-Jul-20,2109
+Selangor,22-Jul-20,2112
+Selangor,23-Jul-20,2112
+Selangor,24-Jul-20,2115
+Selangor,25-Jul-20,2118
+Selangor,26-Jul-20,2118
+Selangor,27-Jul-20,2119
+Selangor,28-Jul-20,2119
+Selangor,29-Jul-20,2121
+Selangor,30-Jul-20,2122
+Selangor,31-Jul-20,2123
+Selangor,1-Aug-20,2129
+Selangor,2-Aug-20,2130
+Selangor,3-Aug-20,2130
+Selangor,4-Aug-20,2130
+Selangor,5-Aug-20,2130
+Selangor,6-Aug-20,2130
+Selangor,7-Aug-20,2132
+Selangor,8-Aug-20,2133
+Selangor,9-Aug-20,2134
+Selangor,10-Aug-20,2138
+Selangor,11-Aug-20,2139
+Selangor,12-Aug-20,2139
+Selangor,13-Aug-20,2142
+Selangor,14-Aug-20,2144
+Selangor,15-Aug-20,2144
+Selangor,16-Aug-20,2149
+Selangor,17-Aug-20,2150
+Selangor,18-Aug-20,2150
+Selangor,19-Aug-20,2150
+Selangor,20-Aug-20,2151
+Selangor,21-Aug-20,2153
+Selangor,22-Aug-20,2153
+Selangor,23-Aug-20,2155
+Selangor,24-Aug-20,2155
+Selangor,25-Aug-20,2158
+Selangor,26-Aug-20,2159
+Selangor,27-Aug-20,2161
+Selangor,28-Aug-20,2164
+Selangor,29-Aug-20,2166
+Selangor,30-Aug-20,2167
+Selangor,31-Aug-20,2171
+Selangor,1-Sep-20,2174
+Selangor,2-Sep-20,2175
+Selangor,3-Sep-20,2175
+Selangor,4-Sep-20,2177
+Selangor,5-Sep-20,2177
+Selangor,6-Sep-20,2177
+Selangor,7-Sep-20,2179
+Selangor,8-Sep-20,2188
+Selangor,9-Sep-20,2189
+Selangor,10-Sep-20,2190
+Selangor,11-Sep-20,2191
+Selangor,12-Sep-20,2193
+Selangor,13-Sep-20,2194
+Selangor,14-Sep-20,2194
+Selangor,15-Sep-20,2199
+Selangor,16-Sep-20,2199
+Selangor,17-Sep-20,2202
+Selangor,18-Sep-20,2205
+Selangor,19-Sep-20,2206
+Selangor,20-Sep-20,2210
+Selangor,21-Sep-20,2214
+Selangor,22-Sep-20,2215
+Selangor,23-Sep-20,2217
+Selangor,24-Sep-20,2220
+Selangor,25-Sep-20,2222
+Selangor,26-Sep-20,2224
+Selangor,27-Sep-20,2235
+Selangor,28-Sep-20,2246
+Selangor,29-Sep-20,2261
+Selangor,30-Sep-20,2271
+Selangor,1-Oct-20,2284
+Selangor,2-Oct-20,2315
+Selangor,3-Oct-20,2347
+Selangor,4-Oct-20,2378
+Selangor,5-Oct-20,2412
+Selangor,6-Oct-20,2451
+Selangor,7-Oct-20,2471
+Selangor,8-Oct-20,2507
+Selangor,9-Oct-20,2531
+Selangor,10-Oct-20,2575
+Selangor,11-Oct-20,2601
+Selangor,12-Oct-20,2670
+Selangor,13-Oct-20,2746
+Selangor,14-Oct-20,2814
+Selangor,15-Oct-20,2964
+Selangor,16-Oct-20,3014
+Selangor,17-Oct-20,3173
+Selangor,18-Oct-20,3250
+Selangor,19-Oct-20,3357
+Selangor,20-Oct-20,3489
+Selangor,21-Oct-20,3605
+Selangor,22-Oct-20,3742
+Selangor,23-Oct-20,3804
+Selangor,24-Oct-20,3880
+Selangor,25-Oct-20,3968
+Selangor,26-Oct-20,4145
+Selangor,27-Oct-20,4271
+Selangor,28-Oct-20,4360
+Selangor,29-Oct-20,4495
+Selangor,30-Oct-20,4645
+Selangor,31-Oct-20,4700
+Selangor,1-Nov-20,4925
+Selangor,2-Nov-20,5054
+Selangor,3-Nov-20,5179
+Selangor,4-Nov-20,5410
+Selangor,5-Nov-20,5590
+Selangor,6-Nov-20,5754
+Selangor,7-Nov-20,6001
+Selangor,8-Nov-20,6149
+Selangor,9-Nov-20,6287
+Selangor,10-Nov-20,6523
+Selangor,11-Nov-20,6701
+Selangor,12-Nov-20,6875
+Selangor,13-Nov-20,7239
+Selangor,14-Nov-20,7439
+Selangor,15-Nov-20,7624
+Selangor,16-Nov-20,7775
+Selangor,17-Nov-20,8046
+Selangor,18-Nov-20,8187
+Selangor,19-Nov-20,8594
+Selangor,20-Nov-20,8747
+Selangor,21-Nov-20,9149
+Selangor,22-Nov-20,9752
+Selangor,23-Nov-20,10955
+Selangor,24-Nov-20,12578
+Selangor,25-Nov-20,12693
+Selangor,26-Nov-20,12854
+Selangor,27-Nov-20,13029
+Selangor,28-Nov-20,13295
+Selangor,29-Nov-20,13533
+Selangor,30-Nov-20,13935
+Terengganu,25-Jan-20,0
+Terengganu,28-Jan-20,0
+Terengganu,30-Jan-20,0
+Terengganu,3-Feb-20,0
+Terengganu,5-Feb-20,0
+Terengganu,6-Feb-20,0
+Terengganu,7-Feb-20,0
+Terengganu,8-Feb-20,0
+Terengganu,9-Feb-20,0
+Terengganu,13-Feb-20,0
+Terengganu,14-Feb-20,0
+Terengganu,15-Feb-20,0
+Terengganu,27-Feb-20,0
+Terengganu,28-Feb-20,0
+Terengganu,1-Mar-20,0
+Terengganu,3-Mar-20,0
+Terengganu,13-Mar-20,0
+Terengganu,14-Mar-20,0
+Terengganu,16-Mar-20,4
+Terengganu,17-Mar-20,7
+Terengganu,18-Mar-20,10
+Terengganu,19-Mar-20,11
+Terengganu,20-Mar-20,20
+Terengganu,21-Mar-20,27
+Terengganu,22-Mar-20,32
+Terengganu,23-Mar-20,38
+Terengganu,24-Mar-20,38
+Terengganu,25-Mar-20,38
+Terengganu,26-Mar-20,39
+Terengganu,27-Mar-20,41
+Terengganu,28-Mar-20,45
+Terengganu,29-Mar-20,47
+Terengganu,30-Mar-20,47
+Terengganu,31-Mar-20,47
+Terengganu,1-Apr-20,48
+Terengganu,2-Apr-20,50
+Terengganu,3-Apr-20,68
+Terengganu,4-Apr-20,74
+Terengganu,5-Apr-20,84
+Terengganu,6-Apr-20,90
+Terengganu,7-Apr-20,90
+Terengganu,8-Apr-20,93
+Terengganu,9-Apr-20,98
+Terengganu,10-Apr-20,101
+Terengganu,11-Apr-20,102
+Terengganu,12-Apr-20,102
+Terengganu,13-Apr-20,106
+Terengganu,14-Apr-20,106
+Terengganu,15-Apr-20,106
+Terengganu,16-Apr-20,108
+Terengganu,17-Apr-20,108
+Terengganu,18-Apr-20,109
+Terengganu,19-Apr-20,109
+Terengganu,20-Apr-20,109
+Terengganu,21-Apr-20,109
+Terengganu,22-Apr-20,109
+Terengganu,23-Apr-20,110
+Terengganu,24-Apr-20,110
+Terengganu,25-Apr-20,110
+Terengganu,26-Apr-20,110
+Terengganu,27-Apr-20,110
+Terengganu,28-Apr-20,110
+Terengganu,29-Apr-20,110
+Terengganu,30-Apr-20,110
+Terengganu,1-May-20,110
+Terengganu,2-May-20,110
+Terengganu,3-May-20,110
+Terengganu,4-May-20,110
+Terengganu,5-May-20,110
+Terengganu,6-May-20,110
+Terengganu,7-May-20,110
+Terengganu,8-May-20,110
+Terengganu,9-May-20,110
+Terengganu,10-May-20,110
+Terengganu,11-May-20,110
+Terengganu,12-May-20,110
+Terengganu,13-May-20,110
+Terengganu,14-May-20,110
+Terengganu,15-May-20,110
+Terengganu,16-May-20,110
+Terengganu,17-May-20,110
+Terengganu,18-May-20,110
+Terengganu,19-May-20,110
+Terengganu,20-May-20,111
+Terengganu,21-May-20,111
+Terengganu,22-May-20,111
+Terengganu,23-May-20,111
+Terengganu,24-May-20,111
+Terengganu,25-May-20,111
+Terengganu,26-May-20,111
+Terengganu,27-May-20,111
+Terengganu,28-May-20,111
+Terengganu,29-May-20,111
+Terengganu,30-May-20,111
+Terengganu,31-May-20,111
+Terengganu,1-Jun-20,111
+Terengganu,2-Jun-20,111
+Terengganu,3-Jun-20,111
+Terengganu,4-Jun-20,111
+Terengganu,5-Jun-20,111
+Terengganu,6-Jun-20,111
+Terengganu,7-Jun-20,111
+Terengganu,8-Jun-20,111
+Terengganu,9-Jun-20,111
+Terengganu,10-Jun-20,111
+Terengganu,11-Jun-20,111
+Terengganu,12-Jun-20,111
+Terengganu,13-Jun-20,111
+Terengganu,14-Jun-20,111
+Terengganu,15-Jun-20,111
+Terengganu,16-Jun-20,111
+Terengganu,17-Jun-20,111
+Terengganu,18-Jun-20,111
+Terengganu,19-Jun-20,111
+Terengganu,20-Jun-20,111
+Terengganu,21-Jun-20,111
+Terengganu,22-Jun-20,111
+Terengganu,23-Jun-20,111
+Terengganu,24-Jun-20,111
+Terengganu,25-Jun-20,111
+Terengganu,26-Jun-20,111
+Terengganu,27-Jun-20,111
+Terengganu,28-Jun-20,111
+Terengganu,29-Jun-20,111
+Terengganu,30-Jun-20,111
+Terengganu,1-Jul-20,111
+Terengganu,2-Jul-20,111
+Terengganu,3-Jul-20,111
+Terengganu,4-Jul-20,111
+Terengganu,5-Jul-20,111
+Terengganu,6-Jul-20,111
+Terengganu,7-Jul-20,111
+Terengganu,8-Jul-20,111
+Terengganu,9-Jul-20,111
+Terengganu,10-Jul-20,111
+Terengganu,11-Jul-20,111
+Terengganu,12-Jul-20,111
+Terengganu,13-Jul-20,111
+Terengganu,14-Jul-20,111
+Terengganu,15-Jul-20,111
+Terengganu,16-Jul-20,112
+Terengganu,17-Jul-20,114
+Terengganu,18-Jul-20,114
+Terengganu,19-Jul-20,114
+Terengganu,20-Jul-20,114
+Terengganu,21-Jul-20,114
+Terengganu,22-Jul-20,114
+Terengganu,23-Jul-20,114
+Terengganu,24-Jul-20,114
+Terengganu,25-Jul-20,114
+Terengganu,26-Jul-20,114
+Terengganu,27-Jul-20,114
+Terengganu,28-Jul-20,114
+Terengganu,29-Jul-20,114
+Terengganu,30-Jul-20,114
+Terengganu,31-Jul-20,114
+Terengganu,1-Aug-20,114
+Terengganu,2-Aug-20,114
+Terengganu,3-Aug-20,114
+Terengganu,4-Aug-20,114
+Terengganu,5-Aug-20,114
+Terengganu,6-Aug-20,114
+Terengganu,7-Aug-20,114
+Terengganu,8-Aug-20,114
+Terengganu,9-Aug-20,114
+Terengganu,10-Aug-20,114
+Terengganu,11-Aug-20,114
+Terengganu,12-Aug-20,114
+Terengganu,13-Aug-20,114
+Terengganu,14-Aug-20,114
+Terengganu,15-Aug-20,114
+Terengganu,16-Aug-20,114
+Terengganu,17-Aug-20,114
+Terengganu,18-Aug-20,114
+Terengganu,19-Aug-20,114
+Terengganu,20-Aug-20,114
+Terengganu,21-Aug-20,114
+Terengganu,22-Aug-20,114
+Terengganu,23-Aug-20,114
+Terengganu,24-Aug-20,114
+Terengganu,25-Aug-20,114
+Terengganu,26-Aug-20,114
+Terengganu,27-Aug-20,114
+Terengganu,28-Aug-20,114
+Terengganu,29-Aug-20,114
+Terengganu,30-Aug-20,114
+Terengganu,31-Aug-20,114
+Terengganu,1-Sep-20,114
+Terengganu,2-Sep-20,114
+Terengganu,3-Sep-20,114
+Terengganu,4-Sep-20,114
+Terengganu,5-Sep-20,114
+Terengganu,6-Sep-20,114
+Terengganu,7-Sep-20,114
+Terengganu,8-Sep-20,114
+Terengganu,9-Sep-20,114
+Terengganu,10-Sep-20,114
+Terengganu,11-Sep-20,114
+Terengganu,12-Sep-20,114
+Terengganu,13-Sep-20,114
+Terengganu,14-Sep-20,114
+Terengganu,15-Sep-20,114
+Terengganu,16-Sep-20,114
+Terengganu,17-Sep-20,114
+Terengganu,18-Sep-20,114
+Terengganu,19-Sep-20,114
+Terengganu,20-Sep-20,114
+Terengganu,21-Sep-20,114
+Terengganu,22-Sep-20,114
+Terengganu,23-Sep-20,114
+Terengganu,24-Sep-20,114
+Terengganu,25-Sep-20,114
+Terengganu,26-Sep-20,116
+Terengganu,27-Sep-20,116
+Terengganu,28-Sep-20,117
+Terengganu,29-Sep-20,117
+Terengganu,30-Sep-20,120
+Terengganu,1-Oct-20,122
+Terengganu,2-Oct-20,125
+Terengganu,3-Oct-20,134
+Terengganu,4-Oct-20,134
+Terengganu,5-Oct-20,139
+Terengganu,6-Oct-20,140
+Terengganu,7-Oct-20,144
+Terengganu,8-Oct-20,149
+Terengganu,9-Oct-20,154
+Terengganu,10-Oct-20,154
+Terengganu,11-Oct-20,157
+Terengganu,12-Oct-20,157
+Terengganu,13-Oct-20,157
+Terengganu,14-Oct-20,157
+Terengganu,15-Oct-20,157
+Terengganu,16-Oct-20,157
+Terengganu,17-Oct-20,160
+Terengganu,18-Oct-20,162
+Terengganu,19-Oct-20,163
+Terengganu,20-Oct-20,163
+Terengganu,21-Oct-20,163
+Terengganu,22-Oct-20,164
+Terengganu,23-Oct-20,166
+Terengganu,24-Oct-20,166
+Terengganu,25-Oct-20,173
+Terengganu,26-Oct-20,176
+Terengganu,27-Oct-20,180
+Terengganu,28-Oct-20,191
+Terengganu,29-Oct-20,192
+Terengganu,30-Oct-20,192
+Terengganu,31-Oct-20,194
+Terengganu,1-Nov-20,209
+Terengganu,2-Nov-20,209
+Terengganu,3-Nov-20,210
+Terengganu,4-Nov-20,213
+Terengganu,5-Nov-20,213
+Terengganu,6-Nov-20,221
+Terengganu,7-Nov-20,224
+Terengganu,8-Nov-20,225
+Terengganu,9-Nov-20,225
+Terengganu,10-Nov-20,225
+Terengganu,11-Nov-20,225
+Terengganu,12-Nov-20,225
+Terengganu,13-Nov-20,225
+Terengganu,14-Nov-20,225
+Terengganu,15-Nov-20,225
+Terengganu,16-Nov-20,229
+Terengganu,17-Nov-20,230
+Terengganu,18-Nov-20,230
+Terengganu,19-Nov-20,230
+Terengganu,20-Nov-20,234
+Terengganu,21-Nov-20,234
+Terengganu,22-Nov-20,234
+Terengganu,23-Nov-20,234
+Terengganu,24-Nov-20,234
+Terengganu,25-Nov-20,235
+Terengganu,26-Nov-20,236
+Terengganu,27-Nov-20,236
+Terengganu,28-Nov-20,236
+Terengganu,29-Nov-20,237
+Terengganu,30-Nov-20,237
+Kuala Lumpur,25-Jan-20,0
+Kuala Lumpur,28-Jan-20,0
+Kuala Lumpur,30-Jan-20,0
+Kuala Lumpur,3-Feb-20,1
+Kuala Lumpur,5-Feb-20,2
+Kuala Lumpur,6-Feb-20,2
+Kuala Lumpur,7-Feb-20,3
+Kuala Lumpur,8-Feb-20,3
+Kuala Lumpur,9-Feb-20,3
+Kuala Lumpur,13-Feb-20,4
+Kuala Lumpur,14-Feb-20,4
+Kuala Lumpur,15-Feb-20,4
+Kuala Lumpur,27-Feb-20,5
+Kuala Lumpur,28-Feb-20,6
+Kuala Lumpur,1-Mar-20,7
+Kuala Lumpur,3-Mar-20,9
+Kuala Lumpur,13-Mar-20,40
+Kuala Lumpur,14-Mar-20,43
+Kuala Lumpur,16-Mar-20,106
+Kuala Lumpur,17-Mar-20,113
+Kuala Lumpur,18-Mar-20,119
+Kuala Lumpur,19-Mar-20,123
+Kuala Lumpur,20-Mar-20,139
+Kuala Lumpur,21-Mar-20,166
+Kuala Lumpur,22-Mar-20,183
+Kuala Lumpur,23-Mar-20,242
+Kuala Lumpur,24-Mar-20,257
+Kuala Lumpur,25-Mar-20,270
+Kuala Lumpur,26-Mar-20,321
+Kuala Lumpur,27-Mar-20,337
+Kuala Lumpur,28-Mar-20,344
+Kuala Lumpur,29-Mar-20,372
+Kuala Lumpur,30-Mar-20,396
+Kuala Lumpur,31-Mar-20,430
+Kuala Lumpur,1-Apr-20,455
+Kuala Lumpur,2-Apr-20,488
+Kuala Lumpur,3-Apr-20,543
+Kuala Lumpur,4-Apr-20,595
+Kuala Lumpur,5-Apr-20,622
+Kuala Lumpur,6-Apr-20,640
+Kuala Lumpur,7-Apr-20,671
+Kuala Lumpur,8-Apr-20,685
+Kuala Lumpur,9-Apr-20,699
+Kuala Lumpur,10-Apr-20,713
+Kuala Lumpur,11-Apr-20,759
+Kuala Lumpur,12-Apr-20,803
+Kuala Lumpur,13-Apr-20,830
+Kuala Lumpur,14-Apr-20,899
+Kuala Lumpur,15-Apr-20,926
+Kuala Lumpur,16-Apr-20,952
+Kuala Lumpur,17-Apr-20,971
+Kuala Lumpur,18-Apr-20,985
+Kuala Lumpur,19-Apr-20,1004
+Kuala Lumpur,20-Apr-20,1008
+Kuala Lumpur,21-Apr-20,1021
+Kuala Lumpur,22-Apr-20,1037
+Kuala Lumpur,23-Apr-20,1066
+Kuala Lumpur,24-Apr-20,1115
+Kuala Lumpur,25-Apr-20,1154
+Kuala Lumpur,26-Apr-20,1170
+Kuala Lumpur,27-Apr-20,1200
+Kuala Lumpur,28-Apr-20,1214
+Kuala Lumpur,29-Apr-20,1222
+Kuala Lumpur,30-Apr-20,1232
+Kuala Lumpur,1-May-20,1264
+Kuala Lumpur,2-May-20,1278
+Kuala Lumpur,3-May-20,1308
+Kuala Lumpur,4-May-20,1333
+Kuala Lumpur,5-May-20,1356
+Kuala Lumpur,6-May-20,1378
+Kuala Lumpur,7-May-20,1398
+Kuala Lumpur,8-May-20,1404
+Kuala Lumpur,9-May-20,1414
+Kuala Lumpur,10-May-20,1423
+Kuala Lumpur,11-May-20,1458
+Kuala Lumpur,12-May-20,1470
+Kuala Lumpur,13-May-20,1475
+Kuala Lumpur,14-May-20,1493
+Kuala Lumpur,15-May-20,1508
+Kuala Lumpur,16-May-20,1515
+Kuala Lumpur,17-May-20,1528
+Kuala Lumpur,18-May-20,1566
+Kuala Lumpur,19-May-20,1588
+Kuala Lumpur,20-May-20,1598
+Kuala Lumpur,21-May-20,1637
+Kuala Lumpur,22-May-20,1676
+Kuala Lumpur,23-May-20,1681
+Kuala Lumpur,24-May-20,1692
+Kuala Lumpur,25-May-20,1807
+Kuala Lumpur,26-May-20,1984
+Kuala Lumpur,27-May-20,1990
+Kuala Lumpur,28-May-20,1997
+Kuala Lumpur,29-May-20,2007
+Kuala Lumpur,30-May-20,2020
+Kuala Lumpur,31-May-20,2028
+Kuala Lumpur,1-Jun-20,2039
+Kuala Lumpur,2-Jun-20,2044
+Kuala Lumpur,3-Jun-20,2099
+Kuala Lumpur,4-Jun-20,2370
+Kuala Lumpur,5-Jun-20,2374
+Kuala Lumpur,6-Jun-20,2389
+Kuala Lumpur,7-Jun-20,2393
+Kuala Lumpur,8-Jun-20,2394
+Kuala Lumpur,9-Jun-20,2398
+Kuala Lumpur,10-Jun-20,2398
+Kuala Lumpur,11-Jun-20,2399
+Kuala Lumpur,12-Jun-20,2409
+Kuala Lumpur,13-Jun-20,2410
+Kuala Lumpur,14-Jun-20,2414
+Kuala Lumpur,15-Jun-20,2415
+Kuala Lumpur,16-Jun-20,2417
+Kuala Lumpur,17-Jun-20,2418
+Kuala Lumpur,18-Jun-20,2422
+Kuala Lumpur,19-Jun-20,2423
+Kuala Lumpur,20-Jun-20,2430
+Kuala Lumpur,21-Jun-20,2430
+Kuala Lumpur,22-Jun-20,2430
+Kuala Lumpur,23-Jun-20,2430
+Kuala Lumpur,24-Jun-20,2430
+Kuala Lumpur,25-Jun-20,2430
+Kuala Lumpur,26-Jun-20,2431
+Kuala Lumpur,27-Jun-20,2435
+Kuala Lumpur,28-Jun-20,2436
+Kuala Lumpur,29-Jun-20,2436
+Kuala Lumpur,30-Jun-20,2436
+Kuala Lumpur,1-Jul-20,2436
+Kuala Lumpur,2-Jul-20,2437
+Kuala Lumpur,3-Jul-20,2437
+Kuala Lumpur,4-Jul-20,2438
+Kuala Lumpur,5-Jul-20,2438
+Kuala Lumpur,6-Jul-20,2439
+Kuala Lumpur,7-Jul-20,2441
+Kuala Lumpur,8-Jul-20,2442
+Kuala Lumpur,9-Jul-20,2442
+Kuala Lumpur,10-Jul-20,2445
+Kuala Lumpur,11-Jul-20,2445
+Kuala Lumpur,12-Jul-20,2445
+Kuala Lumpur,13-Jul-20,2445
+Kuala Lumpur,14-Jul-20,2446
+Kuala Lumpur,15-Jul-20,2447
+Kuala Lumpur,16-Jul-20,2448
+Kuala Lumpur,17-Jul-20,2449
+Kuala Lumpur,18-Jul-20,2449
+Kuala Lumpur,19-Jul-20,2450
+Kuala Lumpur,20-Jul-20,2450
+Kuala Lumpur,21-Jul-20,2451
+Kuala Lumpur,22-Jul-20,2453
+Kuala Lumpur,23-Jul-20,2454
+Kuala Lumpur,24-Jul-20,2457
+Kuala Lumpur,25-Jul-20,2458
+Kuala Lumpur,26-Jul-20,2460
+Kuala Lumpur,27-Jul-20,2462
+Kuala Lumpur,28-Jul-20,2466
+Kuala Lumpur,29-Jul-20,2472
+Kuala Lumpur,30-Jul-20,2473
+Kuala Lumpur,31-Jul-20,2476
+Kuala Lumpur,1-Aug-20,2476
+Kuala Lumpur,2-Aug-20,2476
+Kuala Lumpur,3-Aug-20,2476
+Kuala Lumpur,4-Aug-20,2476
+Kuala Lumpur,5-Aug-20,2491
+Kuala Lumpur,6-Aug-20,2493
+Kuala Lumpur,7-Aug-20,2496
+Kuala Lumpur,8-Aug-20,2499
+Kuala Lumpur,9-Aug-20,2506
+Kuala Lumpur,10-Aug-20,2507
+Kuala Lumpur,11-Aug-20,2513
+Kuala Lumpur,12-Aug-20,2516
+Kuala Lumpur,13-Aug-20,2519
+Kuala Lumpur,14-Aug-20,2523
+Kuala Lumpur,15-Aug-20,2529
+Kuala Lumpur,16-Aug-20,2542
+Kuala Lumpur,17-Aug-20,2544
+Kuala Lumpur,18-Aug-20,2548
+Kuala Lumpur,19-Aug-20,2551
+Kuala Lumpur,20-Aug-20,2551
+Kuala Lumpur,21-Aug-20,2554
+Kuala Lumpur,22-Aug-20,2555
+Kuala Lumpur,23-Aug-20,2558
+Kuala Lumpur,24-Aug-20,2560
+Kuala Lumpur,25-Aug-20,2560
+Kuala Lumpur,26-Aug-20,2560
+Kuala Lumpur,27-Aug-20,2560
+Kuala Lumpur,28-Aug-20,2565
+Kuala Lumpur,29-Aug-20,2573
+Kuala Lumpur,30-Aug-20,2587
+Kuala Lumpur,31-Aug-20,2587
+Kuala Lumpur,1-Sep-20,2587
+Kuala Lumpur,2-Sep-20,2591
+Kuala Lumpur,3-Sep-20,2592
+Kuala Lumpur,4-Sep-20,2599
+Kuala Lumpur,5-Sep-20,2603
+Kuala Lumpur,6-Sep-20,2606
+Kuala Lumpur,7-Sep-20,2610
+Kuala Lumpur,8-Sep-20,2615
+Kuala Lumpur,9-Sep-20,2616
+Kuala Lumpur,10-Sep-20,2616
+Kuala Lumpur,11-Sep-20,2616
+Kuala Lumpur,12-Sep-20,2618
+Kuala Lumpur,13-Sep-20,2619
+Kuala Lumpur,14-Sep-20,2620
+Kuala Lumpur,15-Sep-20,2625
+Kuala Lumpur,16-Sep-20,2625
+Kuala Lumpur,17-Sep-20,2625
+Kuala Lumpur,18-Sep-20,2625
+Kuala Lumpur,19-Sep-20,2627
+Kuala Lumpur,20-Sep-20,2633
+Kuala Lumpur,21-Sep-20,2636
+Kuala Lumpur,22-Sep-20,2645
+Kuala Lumpur,23-Sep-20,2650
+Kuala Lumpur,24-Sep-20,2650
+Kuala Lumpur,25-Sep-20,2652
+Kuala Lumpur,26-Sep-20,2658
+Kuala Lumpur,27-Sep-20,2664
+Kuala Lumpur,28-Sep-20,2665
+Kuala Lumpur,29-Sep-20,2666
+Kuala Lumpur,30-Sep-20,2672
+Kuala Lumpur,1-Oct-20,2686
+Kuala Lumpur,2-Oct-20,2687
+Kuala Lumpur,3-Oct-20,2691
+Kuala Lumpur,4-Oct-20,2694
+Kuala Lumpur,5-Oct-20,2701
+Kuala Lumpur,6-Oct-20,2707
+Kuala Lumpur,7-Oct-20,2711
+Kuala Lumpur,8-Oct-20,2723
+Kuala Lumpur,9-Oct-20,2733
+Kuala Lumpur,10-Oct-20,2739
+Kuala Lumpur,11-Oct-20,2754
+Kuala Lumpur,12-Oct-20,2782
+Kuala Lumpur,13-Oct-20,2792
+Kuala Lumpur,14-Oct-20,2804
+Kuala Lumpur,15-Oct-20,2814
+Kuala Lumpur,16-Oct-20,2824
+Kuala Lumpur,17-Oct-20,2839
+Kuala Lumpur,18-Oct-20,2846
+Kuala Lumpur,19-Oct-20,2853
+Kuala Lumpur,20-Oct-20,2860
+Kuala Lumpur,21-Oct-20,2886
+Kuala Lumpur,22-Oct-20,2909
+Kuala Lumpur,23-Oct-20,2920
+Kuala Lumpur,24-Oct-20,2939
+Kuala Lumpur,25-Oct-20,2949
+Kuala Lumpur,26-Oct-20,2966
+Kuala Lumpur,27-Oct-20,2977
+Kuala Lumpur,28-Oct-20,2991
+Kuala Lumpur,29-Oct-20,3014
+Kuala Lumpur,30-Oct-20,3033
+Kuala Lumpur,31-Oct-20,3044
+Kuala Lumpur,1-Nov-20,3048
+Kuala Lumpur,2-Nov-20,3070
+Kuala Lumpur,3-Nov-20,3092
+Kuala Lumpur,4-Nov-20,3101
+Kuala Lumpur,5-Nov-20,3118
+Kuala Lumpur,6-Nov-20,3136
+Kuala Lumpur,7-Nov-20,3164
+Kuala Lumpur,8-Nov-20,3175
+Kuala Lumpur,9-Nov-20,3197
+Kuala Lumpur,10-Nov-20,3216
+Kuala Lumpur,11-Nov-20,3237
+Kuala Lumpur,12-Nov-20,3286
+Kuala Lumpur,13-Nov-20,3488
+Kuala Lumpur,14-Nov-20,3501
+Kuala Lumpur,15-Nov-20,3976
+Kuala Lumpur,16-Nov-20,4368
+Kuala Lumpur,17-Nov-20,4613
+Kuala Lumpur,18-Nov-20,4644
+Kuala Lumpur,19-Nov-20,4716
+Kuala Lumpur,20-Nov-20,4762
+Kuala Lumpur,21-Nov-20,4830
+Kuala Lumpur,22-Nov-20,4860
+Kuala Lumpur,23-Nov-20,5056
+Kuala Lumpur,24-Nov-20,5146
+Kuala Lumpur,25-Nov-20,5190
+Kuala Lumpur,26-Nov-20,5249
+Kuala Lumpur,27-Nov-20,5403
+Kuala Lumpur,28-Nov-20,5594
+Kuala Lumpur,29-Nov-20,6087
+Kuala Lumpur,30-Nov-20,6206
+Putrajaya,25-Jan-20,0
+Putrajaya,28-Jan-20,0
+Putrajaya,30-Jan-20,0
+Putrajaya,3-Feb-20,0
+Putrajaya,5-Feb-20,0
+Putrajaya,6-Feb-20,0
+Putrajaya,7-Feb-20,0
+Putrajaya,8-Feb-20,0
+Putrajaya,9-Feb-20,0
+Putrajaya,13-Feb-20,0
+Putrajaya,14-Feb-20,0
+Putrajaya,15-Feb-20,0
+Putrajaya,27-Feb-20,0
+Putrajaya,28-Feb-20,0
+Putrajaya,1-Mar-20,0
+Putrajaya,3-Mar-20,0
+Putrajaya,13-Mar-20,1
+Putrajaya,14-Mar-20,1
+Putrajaya,16-Mar-20,0
+Putrajaya,17-Mar-20,0
+Putrajaya,18-Mar-20,0
+Putrajaya,19-Mar-20,6
+Putrajaya,20-Mar-20,6
+Putrajaya,21-Mar-20,9
+Putrajaya,22-Mar-20,9
+Putrajaya,23-Mar-20,13
+Putrajaya,24-Mar-20,15
+Putrajaya,25-Mar-20,16
+Putrajaya,26-Mar-20,18
+Putrajaya,27-Mar-20,20
+Putrajaya,28-Mar-20,20
+Putrajaya,29-Mar-20,22
+Putrajaya,30-Mar-20,24
+Putrajaya,31-Mar-20,26
+Putrajaya,1-Apr-20,26
+Putrajaya,2-Apr-20,34
+Putrajaya,3-Apr-20,35
+Putrajaya,4-Apr-20,36
+Putrajaya,5-Apr-20,37
+Putrajaya,6-Apr-20,41
+Putrajaya,7-Apr-20,43
+Putrajaya,8-Apr-20,45
+Putrajaya,9-Apr-20,47
+Putrajaya,10-Apr-20,49
+Putrajaya,11-Apr-20,51
+Putrajaya,12-Apr-20,52
+Putrajaya,13-Apr-20,54
+Putrajaya,14-Apr-20,54
+Putrajaya,15-Apr-20,54
+Putrajaya,16-Apr-20,55
+Putrajaya,17-Apr-20,55
+Putrajaya,18-Apr-20,55
+Putrajaya,19-Apr-20,64
+Putrajaya,20-Apr-20,77
+Putrajaya,21-Apr-20,77
+Putrajaya,22-Apr-20,78
+Putrajaya,23-Apr-20,78
+Putrajaya,24-Apr-20,78
+Putrajaya,25-Apr-20,78
+Putrajaya,26-Apr-20,79
+Putrajaya,27-Apr-20,79
+Putrajaya,28-Apr-20,80
+Putrajaya,29-Apr-20,80
+Putrajaya,30-Apr-20,81
+Putrajaya,1-May-20,85
+Putrajaya,2-May-20,85
+Putrajaya,3-May-20,86
+Putrajaya,4-May-20,86
+Putrajaya,5-May-20,86
+Putrajaya,6-May-20,86
+Putrajaya,7-May-20,86
+Putrajaya,8-May-20,87
+Putrajaya,9-May-20,88
+Putrajaya,10-May-20,88
+Putrajaya,11-May-20,89
+Putrajaya,12-May-20,89
+Putrajaya,13-May-20,89
+Putrajaya,14-May-20,89
+Putrajaya,15-May-20,89
+Putrajaya,16-May-20,90
+Putrajaya,17-May-20,90
+Putrajaya,18-May-20,91
+Putrajaya,19-May-20,91
+Putrajaya,20-May-20,93
+Putrajaya,21-May-20,93
+Putrajaya,22-May-20,93
+Putrajaya,23-May-20,93
+Putrajaya,24-May-20,93
+Putrajaya,25-May-20,93
+Putrajaya,26-May-20,93
+Putrajaya,27-May-20,93
+Putrajaya,28-May-20,93
+Putrajaya,29-May-20,93
+Putrajaya,30-May-20,97
+Putrajaya,31-May-20,97
+Putrajaya,1-Jun-20,97
+Putrajaya,2-Jun-20,97
+Putrajaya,3-Jun-20,97
+Putrajaya,4-Jun-20,97
+Putrajaya,5-Jun-20,97
+Putrajaya,6-Jun-20,97
+Putrajaya,7-Jun-20,97
+Putrajaya,8-Jun-20,97
+Putrajaya,9-Jun-20,97
+Putrajaya,10-Jun-20,97
+Putrajaya,11-Jun-20,97
+Putrajaya,12-Jun-20,97
+Putrajaya,13-Jun-20,97
+Putrajaya,14-Jun-20,97
+Putrajaya,15-Jun-20,97
+Putrajaya,16-Jun-20,97
+Putrajaya,17-Jun-20,97
+Putrajaya,18-Jun-20,97
+Putrajaya,19-Jun-20,97
+Putrajaya,20-Jun-20,97
+Putrajaya,21-Jun-20,97
+Putrajaya,22-Jun-20,97
+Putrajaya,23-Jun-20,97
+Putrajaya,24-Jun-20,97
+Putrajaya,25-Jun-20,97
+Putrajaya,26-Jun-20,97
+Putrajaya,27-Jun-20,97
+Putrajaya,28-Jun-20,97
+Putrajaya,29-Jun-20,97
+Putrajaya,30-Jun-20,97
+Putrajaya,1-Jul-20,97
+Putrajaya,2-Jul-20,97
+Putrajaya,3-Jul-20,97
+Putrajaya,4-Jul-20,97
+Putrajaya,5-Jul-20,97
+Putrajaya,6-Jul-20,97
+Putrajaya,7-Jul-20,97
+Putrajaya,8-Jul-20,97
+Putrajaya,9-Jul-20,97
+Putrajaya,10-Jul-20,97
+Putrajaya,11-Jul-20,97
+Putrajaya,12-Jul-20,98
+Putrajaya,13-Jul-20,98
+Putrajaya,14-Jul-20,98
+Putrajaya,15-Jul-20,98
+Putrajaya,16-Jul-20,98
+Putrajaya,17-Jul-20,98
+Putrajaya,18-Jul-20,98
+Putrajaya,19-Jul-20,98
+Putrajaya,20-Jul-20,98
+Putrajaya,21-Jul-20,98
+Putrajaya,22-Jul-20,98
+Putrajaya,23-Jul-20,98
+Putrajaya,24-Jul-20,98
+Putrajaya,25-Jul-20,98
+Putrajaya,26-Jul-20,98
+Putrajaya,27-Jul-20,98
+Putrajaya,28-Jul-20,98
+Putrajaya,29-Jul-20,98
+Putrajaya,30-Jul-20,98
+Putrajaya,31-Jul-20,98
+Putrajaya,1-Aug-20,98
+Putrajaya,2-Aug-20,98
+Putrajaya,3-Aug-20,98
+Putrajaya,4-Aug-20,98
+Putrajaya,5-Aug-20,98
+Putrajaya,6-Aug-20,98
+Putrajaya,7-Aug-20,98
+Putrajaya,8-Aug-20,98
+Putrajaya,9-Aug-20,99
+Putrajaya,10-Aug-20,99
+Putrajaya,11-Aug-20,99
+Putrajaya,12-Aug-20,99
+Putrajaya,13-Aug-20,99
+Putrajaya,14-Aug-20,99
+Putrajaya,15-Aug-20,99
+Putrajaya,16-Aug-20,99
+Putrajaya,17-Aug-20,99
+Putrajaya,18-Aug-20,99
+Putrajaya,19-Aug-20,99
+Putrajaya,20-Aug-20,99
+Putrajaya,21-Aug-20,99
+Putrajaya,22-Aug-20,99
+Putrajaya,23-Aug-20,99
+Putrajaya,24-Aug-20,99
+Putrajaya,25-Aug-20,99
+Putrajaya,26-Aug-20,99
+Putrajaya,27-Aug-20,99
+Putrajaya,28-Aug-20,99
+Putrajaya,29-Aug-20,99
+Putrajaya,30-Aug-20,99
+Putrajaya,31-Aug-20,99
+Putrajaya,1-Sep-20,99
+Putrajaya,2-Sep-20,99
+Putrajaya,3-Sep-20,99
+Putrajaya,4-Sep-20,99
+Putrajaya,5-Sep-20,99
+Putrajaya,6-Sep-20,99
+Putrajaya,7-Sep-20,99
+Putrajaya,8-Sep-20,99
+Putrajaya,9-Sep-20,99
+Putrajaya,10-Sep-20,99
+Putrajaya,11-Sep-20,99
+Putrajaya,12-Sep-20,99
+Putrajaya,13-Sep-20,99
+Putrajaya,14-Sep-20,99
+Putrajaya,15-Sep-20,99
+Putrajaya,16-Sep-20,99
+Putrajaya,17-Sep-20,99
+Putrajaya,18-Sep-20,99
+Putrajaya,19-Sep-20,99
+Putrajaya,20-Sep-20,99
+Putrajaya,21-Sep-20,99
+Putrajaya,22-Sep-20,99
+Putrajaya,23-Sep-20,99
+Putrajaya,24-Sep-20,99
+Putrajaya,25-Sep-20,99
+Putrajaya,26-Sep-20,99
+Putrajaya,27-Sep-20,99
+Putrajaya,28-Sep-20,99
+Putrajaya,29-Sep-20,100
+Putrajaya,30-Sep-20,100
+Putrajaya,1-Oct-20,105
+Putrajaya,2-Oct-20,105
+Putrajaya,3-Oct-20,107
+Putrajaya,4-Oct-20,107
+Putrajaya,5-Oct-20,109
+Putrajaya,6-Oct-20,110
+Putrajaya,7-Oct-20,112
+Putrajaya,8-Oct-20,114
+Putrajaya,9-Oct-20,116
+Putrajaya,10-Oct-20,117
+Putrajaya,11-Oct-20,117
+Putrajaya,12-Oct-20,119
+Putrajaya,13-Oct-20,119
+Putrajaya,14-Oct-20,120
+Putrajaya,15-Oct-20,121
+Putrajaya,16-Oct-20,123
+Putrajaya,17-Oct-20,125
+Putrajaya,18-Oct-20,125
+Putrajaya,19-Oct-20,128
+Putrajaya,20-Oct-20,129
+Putrajaya,21-Oct-20,135
+Putrajaya,22-Oct-20,139
+Putrajaya,23-Oct-20,139
+Putrajaya,24-Oct-20,139
+Putrajaya,25-Oct-20,140
+Putrajaya,26-Oct-20,140
+Putrajaya,27-Oct-20,141
+Putrajaya,28-Oct-20,141
+Putrajaya,29-Oct-20,142
+Putrajaya,30-Oct-20,143
+Putrajaya,31-Oct-20,147
+Putrajaya,1-Nov-20,148
+Putrajaya,2-Nov-20,154
+Putrajaya,3-Nov-20,157
+Putrajaya,4-Nov-20,161
+Putrajaya,5-Nov-20,162
+Putrajaya,6-Nov-20,171
+Putrajaya,7-Nov-20,171
+Putrajaya,8-Nov-20,173
+Putrajaya,9-Nov-20,178
+Putrajaya,10-Nov-20,181
+Putrajaya,11-Nov-20,184
+Putrajaya,12-Nov-20,185
+Putrajaya,13-Nov-20,186
+Putrajaya,14-Nov-20,190
+Putrajaya,15-Nov-20,191
+Putrajaya,16-Nov-20,192
+Putrajaya,17-Nov-20,194
+Putrajaya,18-Nov-20,195
+Putrajaya,19-Nov-20,195
+Putrajaya,20-Nov-20,196
+Putrajaya,21-Nov-20,196
+Putrajaya,22-Nov-20,197
+Putrajaya,23-Nov-20,198
+Putrajaya,24-Nov-20,198
+Putrajaya,25-Nov-20,199
+Putrajaya,26-Nov-20,204
+Putrajaya,27-Nov-20,204
+Putrajaya,28-Nov-20,204
+Putrajaya,29-Nov-20,204
+Putrajaya,30-Nov-20,205
+Labuan,25-Jan-20,0
+Labuan,28-Jan-20,0
+Labuan,30-Jan-20,0
+Labuan,3-Feb-20,0
+Labuan,5-Feb-20,0
+Labuan,6-Feb-20,0
+Labuan,7-Feb-20,0
+Labuan,8-Feb-20,0
+Labuan,9-Feb-20,0
+Labuan,13-Feb-20,0
+Labuan,14-Feb-20,0
+Labuan,15-Feb-20,0
+Labuan,27-Feb-20,0
+Labuan,28-Feb-20,0
+Labuan,1-Mar-20,0
+Labuan,3-Mar-20,0
+Labuan,13-Mar-20,2
+Labuan,14-Mar-20,2
+Labuan,16-Mar-20,4
+Labuan,17-Mar-20,4
+Labuan,18-Mar-20,5
+Labuan,19-Mar-20,5
+Labuan,20-Mar-20,5
+Labuan,21-Mar-20,5
+Labuan,22-Mar-20,5
+Labuan,23-Mar-20,5
+Labuan,24-Mar-20,5
+Labuan,25-Mar-20,5
+Labuan,26-Mar-20,5
+Labuan,27-Mar-20,5
+Labuan,28-Mar-20,10
+Labuan,29-Mar-20,10
+Labuan,30-Mar-20,10
+Labuan,31-Mar-20,10
+Labuan,1-Apr-20,10
+Labuan,2-Apr-20,10
+Labuan,3-Apr-20,10
+Labuan,4-Apr-20,11
+Labuan,5-Apr-20,11
+Labuan,6-Apr-20,12
+Labuan,7-Apr-20,13
+Labuan,8-Apr-20,13
+Labuan,9-Apr-20,13
+Labuan,10-Apr-20,13
+Labuan,11-Apr-20,15
+Labuan,12-Apr-20,15
+Labuan,13-Apr-20,15
+Labuan,14-Apr-20,15
+Labuan,15-Apr-20,15
+Labuan,16-Apr-20,15
+Labuan,17-Apr-20,16
+Labuan,18-Apr-20,16
+Labuan,19-Apr-20,16
+Labuan,20-Apr-20,16
+Labuan,21-Apr-20,16
+Labuan,22-Apr-20,16
+Labuan,23-Apr-20,16
+Labuan,24-Apr-20,16
+Labuan,25-Apr-20,16
+Labuan,26-Apr-20,16
+Labuan,27-Apr-20,16
+Labuan,28-Apr-20,16
+Labuan,29-Apr-20,16
+Labuan,30-Apr-20,16
+Labuan,1-May-20,16
+Labuan,2-May-20,16
+Labuan,3-May-20,16
+Labuan,4-May-20,16
+Labuan,5-May-20,16
+Labuan,6-May-20,16
+Labuan,7-May-20,16
+Labuan,8-May-20,16
+Labuan,9-May-20,16
+Labuan,10-May-20,16
+Labuan,11-May-20,16
+Labuan,12-May-20,16
+Labuan,13-May-20,16
+Labuan,14-May-20,16
+Labuan,15-May-20,16
+Labuan,16-May-20,16
+Labuan,17-May-20,16
+Labuan,18-May-20,16
+Labuan,19-May-20,16
+Labuan,20-May-20,16
+Labuan,21-May-20,16
+Labuan,22-May-20,16
+Labuan,23-May-20,16
+Labuan,24-May-20,16
+Labuan,25-May-20,16
+Labuan,26-May-20,16
+Labuan,27-May-20,16
+Labuan,28-May-20,16
+Labuan,29-May-20,16
+Labuan,30-May-20,16
+Labuan,31-May-20,16
+Labuan,1-Jun-20,16
+Labuan,2-Jun-20,16
+Labuan,3-Jun-20,16
+Labuan,4-Jun-20,16
+Labuan,5-Jun-20,16
+Labuan,6-Jun-20,17
+Labuan,7-Jun-20,17
+Labuan,8-Jun-20,17
+Labuan,9-Jun-20,17
+Labuan,10-Jun-20,17
+Labuan,11-Jun-20,17
+Labuan,12-Jun-20,17
+Labuan,13-Jun-20,17
+Labuan,14-Jun-20,17
+Labuan,15-Jun-20,17
+Labuan,16-Jun-20,17
+Labuan,17-Jun-20,17
+Labuan,18-Jun-20,17
+Labuan,19-Jun-20,17
+Labuan,20-Jun-20,17
+Labuan,21-Jun-20,17
+Labuan,22-Jun-20,17
+Labuan,23-Jun-20,17
+Labuan,24-Jun-20,17
+Labuan,25-Jun-20,17
+Labuan,26-Jun-20,17
+Labuan,27-Jun-20,17
+Labuan,28-Jun-20,17
+Labuan,29-Jun-20,17
+Labuan,30-Jun-20,17
+Labuan,1-Jul-20,17
+Labuan,2-Jul-20,17
+Labuan,3-Jul-20,17
+Labuan,4-Jul-20,17
+Labuan,5-Jul-20,17
+Labuan,6-Jul-20,17
+Labuan,7-Jul-20,17
+Labuan,8-Jul-20,17
+Labuan,9-Jul-20,17
+Labuan,10-Jul-20,17
+Labuan,11-Jul-20,17
+Labuan,12-Jul-20,17
+Labuan,13-Jul-20,17
+Labuan,14-Jul-20,17
+Labuan,15-Jul-20,17
+Labuan,16-Jul-20,17
+Labuan,17-Jul-20,17
+Labuan,18-Jul-20,17
+Labuan,19-Jul-20,17
+Labuan,20-Jul-20,17
+Labuan,21-Jul-20,17
+Labuan,22-Jul-20,17
+Labuan,23-Jul-20,17
+Labuan,24-Jul-20,17
+Labuan,25-Jul-20,18
+Labuan,26-Jul-20,18
+Labuan,27-Jul-20,18
+Labuan,28-Jul-20,19
+Labuan,29-Jul-20,19
+Labuan,30-Jul-20,19
+Labuan,31-Jul-20,19
+Labuan,1-Aug-20,19
+Labuan,2-Aug-20,19
+Labuan,3-Aug-20,20
+Labuan,4-Aug-20,20
+Labuan,5-Aug-20,20
+Labuan,6-Aug-20,21
+Labuan,7-Aug-20,21
+Labuan,8-Aug-20,22
+Labuan,9-Aug-20,22
+Labuan,10-Aug-20,22
+Labuan,11-Aug-20,22
+Labuan,12-Aug-20,22
+Labuan,13-Aug-20,22
+Labuan,14-Aug-20,22
+Labuan,15-Aug-20,22
+Labuan,16-Aug-20,22
+Labuan,17-Aug-20,22
+Labuan,18-Aug-20,22
+Labuan,19-Aug-20,23
+Labuan,20-Aug-20,23
+Labuan,21-Aug-20,23
+Labuan,22-Aug-20,23
+Labuan,23-Aug-20,23
+Labuan,24-Aug-20,23
+Labuan,25-Aug-20,23
+Labuan,26-Aug-20,23
+Labuan,27-Aug-20,23
+Labuan,28-Aug-20,23
+Labuan,29-Aug-20,23
+Labuan,30-Aug-20,23
+Labuan,31-Aug-20,23
+Labuan,1-Sep-20,23
+Labuan,2-Sep-20,23
+Labuan,3-Sep-20,23
+Labuan,4-Sep-20,23
+Labuan,5-Sep-20,23
+Labuan,6-Sep-20,23
+Labuan,7-Sep-20,23
+Labuan,8-Sep-20,23
+Labuan,9-Sep-20,23
+Labuan,10-Sep-20,23
+Labuan,11-Sep-20,23
+Labuan,12-Sep-20,23
+Labuan,13-Sep-20,23
+Labuan,14-Sep-20,23
+Labuan,15-Sep-20,23
+Labuan,16-Sep-20,23
+Labuan,17-Sep-20,23
+Labuan,18-Sep-20,23
+Labuan,19-Sep-20,23
+Labuan,20-Sep-20,25
+Labuan,21-Sep-20,25
+Labuan,22-Sep-20,25
+Labuan,23-Sep-20,25
+Labuan,24-Sep-20,25
+Labuan,25-Sep-20,25
+Labuan,26-Sep-20,26
+Labuan,27-Sep-20,26
+Labuan,28-Sep-20,27
+Labuan,29-Sep-20,27
+Labuan,30-Sep-20,28
+Labuan,1-Oct-20,28
+Labuan,2-Oct-20,29
+Labuan,3-Oct-20,29
+Labuan,4-Oct-20,34
+Labuan,5-Oct-20,38
+Labuan,6-Oct-20,39
+Labuan,7-Oct-20,39
+Labuan,8-Oct-20,49
+Labuan,9-Oct-20,50
+Labuan,10-Oct-20,52
+Labuan,11-Oct-20,57
+Labuan,12-Oct-20,59
+Labuan,13-Oct-20,78
+Labuan,14-Oct-20,86
+Labuan,15-Oct-20,92
+Labuan,16-Oct-20,111
+Labuan,17-Oct-20,111
+Labuan,18-Oct-20,120
+Labuan,19-Oct-20,154
+Labuan,20-Oct-20,160
+Labuan,21-Oct-20,169
+Labuan,22-Oct-20,198
+Labuan,23-Oct-20,217
+Labuan,24-Oct-20,238
+Labuan,25-Oct-20,264
+Labuan,26-Oct-20,270
+Labuan,27-Oct-20,346
+Labuan,28-Oct-20,375
+Labuan,29-Oct-20,392
+Labuan,30-Oct-20,457
+Labuan,31-Oct-20,469
+Labuan,1-Nov-20,487
+Labuan,2-Nov-20,592
+Labuan,3-Nov-20,673
+Labuan,4-Nov-20,701
+Labuan,5-Nov-20,796
+Labuan,6-Nov-20,855
+Labuan,7-Nov-20,959
+Labuan,8-Nov-20,983
+Labuan,9-Nov-20,1046
+Labuan,10-Nov-20,1054
+Labuan,11-Nov-20,1100
+Labuan,12-Nov-20,1135
+Labuan,13-Nov-20,1139
+Labuan,14-Nov-20,1147
+Labuan,15-Nov-20,1177
+Labuan,16-Nov-20,1185
+Labuan,17-Nov-20,1186
+Labuan,18-Nov-20,1199
+Labuan,19-Nov-20,1214
+Labuan,20-Nov-20,1215
+Labuan,21-Nov-20,1227
+Labuan,22-Nov-20,1240
+Labuan,23-Nov-20,1240
+Labuan,24-Nov-20,1241
+Labuan,25-Nov-20,1278
+Labuan,26-Nov-20,1291
+Labuan,27-Nov-20,1291
+Labuan,28-Nov-20,1291
+Labuan,29-Nov-20,1326
+Labuan,30-Nov-20,1356
