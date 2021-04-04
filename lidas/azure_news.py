@@ -1,5 +1,6 @@
 import json
 import requests
+import streamlit as st
 
 def search_news(region):
 # Add your Bing Search V7 subscription key and endpoint
@@ -27,3 +28,8 @@ def search_news(region):
         news = ''
     
     return news
+
+def search_headline(region):
+    # alternatively, with a 'link' style
+    link = '[Click to view {} top new headlines ](http://192.168.1.7:8501/)'.format(region)
+    st.markdown(link, unsafe_allow_html=True)

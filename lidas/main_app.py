@@ -3,7 +3,7 @@ from streamlit import components
 import matplotlib.pyplot as plt
 import pandas as pd
 from countrymapping import COUNTRY_MAPPINGS
-from azure_news import search_news
+from azure_news import search_news,search_headline
 from azure_forum import search_forum
 from azure_forecast import forecast
 
@@ -83,6 +83,7 @@ def main():
 
     elif side_menu_selectbox == 'News Feed':
         newsfeed_ui(newsfeed_ui_path='./docs/newsfeed_ui.md')
+        search_headline(region)
         region_news = search_news(region) #region html news
         raw_html = region_news._repr_html_()
         components.v1.html(raw_html, height=600, scrolling=True)
