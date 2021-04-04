@@ -19,5 +19,5 @@ if st.button('Go to Lidas Forum'):
     st.bokeh_chart(div)
 
 # alternatively, with a 'link' style
-link = '[Go to Lidas Forum](http://20.44.228.152)'
-st.markdown(link, unsafe_allow_html=True)
+# link = '[Go to Lidas Forum](http://20.44.228.152)'
+# st.markdown(link, unsafe_allow_html=True)
