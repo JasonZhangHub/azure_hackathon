@@ -37,6 +37,7 @@ def app():
         unsafe_allow_html=True,
     )
 
+    st.image('lidaslogo.png', width=250)
     md = markdown.Markdown()
 
     st.markdown(
