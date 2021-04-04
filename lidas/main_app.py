@@ -1,9 +1,11 @@
 import streamlit as st
 from streamlit import components
+import matplotlib.pyplot as plt
 import pandas as pd
 from countrymapping import COUNTRY_MAPPINGS
 from azure_news import search_news
 from azure_forum import search_forum
+from azure_forecast import forecast
 
 def home(homepage_path, contact_path):
     '''The home page. '''
@@ -55,6 +57,9 @@ def main():
         home(homepage_path='./docs/homepage.md', contact_path='./docs/contact_us.md')
     elif side_menu_selectbox == 'Forecast':
         forecast_ui(forecast_ui_path='./docs/forecast_ui.md')
+        st.markdown('Below is the trend chart and forecasted number in **{}**'.format(region))
+        st.pyplot(forecast(region))
+        
     elif side_menu_selectbox == 'Geoservice':
         geoservice_ui(geoservice_ui_path='./docs/geoservice_ui.md')
         option = st.selectbox(

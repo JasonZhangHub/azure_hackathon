@@ -11,18 +11,18 @@ def forecast(region):
     
     df_region = df[df['region']==region].reset_index(drop=True)[['date','cases']]
     df_region['date']= pd.to_datetime(df['date'],format='%d-%b-%y')
-    # y = df_region.set_index(['date']).sort_values(by="date",ascending=True)
-    mod = sm.tsa.SARIMAX(df_region.cases, order=(1, 1, 1), trend='c')
+    y = df_region.set_index(['date']).sort_values(by="date",ascending=True)
+    mod = sm.tsa.SARIMAX(y, order=(1, 1, 1), trend='c')
     res = mod.fit()
     
     pred = res.get_forecast(steps=28)
     t= pred.summary_frame()
     
-    fig, ax = plt.subplots(figsize=(15, 5))
+    fig, ax = plt.subplots(figsize=(15, 10))
     df_region['cases'].loc['2020-10-01':].plot(ax=ax)
     
     t['mean'].plot(ax=ax, style='k--')
     ax.fill_between(t.index, t['mean_ci_lower'], t['mean_ci_upper'], color='k', alpha=0.1)
-    fig.show()
-
-    return 
+    fig
+    
+    return fig
