@@ -1,5 +1,7 @@
 ## Community
 
-You can participate in community discussion. 
-
-You can allocate resources, share information, and discuss policies etc.
+You can participate in your community discussion, such as:
+- Book vaccination in your community
+- Check allowed flights
+- Join volunteer groups?
+- Add tributes to our healthcare workers
