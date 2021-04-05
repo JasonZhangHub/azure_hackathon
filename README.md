@@ -1,5 +1,7 @@
 # Azure Hackathon SABJ Team - LIDAS Application # 
 
+This is the code repository to our web app at [lidas.herokuapp.com](lidas.herokuapp.com).
+
 ## 1. Overview ## 
 
 This repository stores all scripts that are used for Azure Hackathon LIDAS Application.
